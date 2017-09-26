@@ -7,6 +7,7 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 
 - Reinforcement Learning 強化学習 
 - Transfer Learning 転移学習 
+  - A novel end-to-end classifier using domain transferred deep convolutional neural networks for biomedical images.
   - Transfer Learning and Sentence Level Features for Named Entity Recognition on Tweets
   - TRANSFER LEARNING FOR MUSIC CLASSIFICATION AND REGRESSION TASKS,  Urbansound8K dataset. 
   - TRANSFER LEARNING FOR SEQUENCE TAGGING WITH HIERARCHICAL RECURRENT NETWORKS
@@ -23,4 +24,10 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
   multimodal deep belief network (DBN) both textual features and non-textual features 
 - 病理組織分類
  - 2017 横紋筋肉腫の病理組織学的サブタイプ分類, 転移学習, Multimodal(拡散強調MRスキャン（DWI）とガドリニウムキレート強化T1強調MRスキャン（MRI）の融合)
- 
+- 微生物分類
+  - Deep learning approach to bacterial colony classification.
+- 植物葉分類
+  - Automated classification of tropical shrub species: a hybrid of leaf shape and machine learning approach.
+     - myDAUN dataset. 98.23%
+     - the Flavia dataset  95.25%
+     - Swedish Leaf dataset  99.89%
