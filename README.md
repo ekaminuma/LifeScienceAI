@@ -7,9 +7,11 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 
 - Reinforcement Learning 強化学習 
 - Transfer Learning 転移学習 
- - Transfer Learning and Sentence Level Features for Named Entity Recognition on Tweets
- - TRANSFER LEARNING FOR MUSIC CLASSIFICATION AND REGRESSION TASKS,  Urbansound8K dataset. 
- - TRANSFER LEARNING FOR SEQUENCE TAGGING WITH HIERARCHICAL RECURRENT NETWORKS
+  - Transfer Learning and Sentence Level Features for Named Entity Recognition on Tweets
+  - TRANSFER LEARNING FOR MUSIC CLASSIFICATION AND REGRESSION TASKS,  Urbansound8K dataset. 
+  - TRANSFER LEARNING FOR SEQUENCE TAGGING WITH HIERARCHICAL RECURRENT NETWORKS
+  
+
 - Deep learning for structured data creation データ構造化の深層学習
 - Attention RNNs 
   - [Domain Attention with an Ensemble of Experts](http://www.aclweb.org/anthology/P/P17/P17-1060.pdf)
