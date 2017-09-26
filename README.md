@@ -13,7 +13,8 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
   - TRANSFER LEARNING FOR SEQUENCE TAGGING WITH HIERARCHICAL RECURRENT NETWORKS
   
 
-- Deep learning for structured data creation データ構造化の深層学習
+- Deep learning for structured data creation データ構造化の深層学習 
+   - [Snokel](https://github.com/HazyResearch/snorkel) 
 - Attention RNNs 
   - [Domain Attention with an Ensemble of Experts](http://www.aclweb.org/anthology/P/P17/P17-1060.pdf)
   - [Neural Relation Extraction with Multi-lingual Attention](http://www.aclweb.org/anthology/P/P17/P17-1004.pdf)
