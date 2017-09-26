@@ -25,9 +25,14 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 - 病理組織分類
  - 2017 横紋筋肉腫の病理組織学的サブタイプ分類, 転移学習, Multimodal(拡散強調MRスキャン（DWI）とガドリニウムキレート強化T1強調MRスキャン（MRI）の融合)
 - 微生物分類
-  - Deep learning approach to bacterial colony classification.
+  - Deep learning approach to bacterial colony classification. DIBaS dataset ( 660 images with 33 different genera and species of bacteria.)
 - 植物葉分類
   - Automated classification of tropical shrub species: a hybrid of leaf shape and machine learning approach.
      - myDAUN dataset. 98.23%
      - the Flavia dataset  95.25%
      - Swedish Leaf dataset  99.89%
+ -     
+     - TITER: predicting translation initiation sites by deep learning.
+     - DextMP: deep dive into text for predicting moonlighting proteins.
+     - DeepCNF: AUC-Maximized Deep Convolutional Neural Fields for Protein Sequence Labeling
+     
