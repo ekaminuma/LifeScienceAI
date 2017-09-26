@@ -6,4 +6,16 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
   - bias-variance dilemma/tradeoff = simple models (bias大,variance小),　complex models (bias小,variance大) 
 
 - Reinforcement Learning 強化学習 
+- Transfer Learning 転移学習 
 - Deep learning for structured data creation データ構造化の深層学習
+- Attention RNNs 
+  - [Domain Attention with an Ensemble of Experts](http://www.aclweb.org/anthology/P/P17/P17-1060.pdf)
+  - [Neural Relation Extraction with Multi-lingual Attention](http://www.aclweb.org/anthology/P/P17/P17-1004.pdf)
+
+# DNN research from PubMed
+- 健康質問応答サービス
+- [28606870](https://www.ncbi.nlm.nih.gov/pubmed/28606870) 2017  オンライン健康質問応答サービスの品質予測, 90日間3人医師でラベル付け
+  multimodal deep belief network (DBN) both textual features and non-textual features 
+- 病理組織分類
+ - 2017 横紋筋肉腫の病理組織学的サブタイプ分類, 転移学習, Multimodal(拡散強調MRスキャン（DWI）とガドリニウムキレート強化T1強調MRスキャン（MRI）の融合)
+ 
