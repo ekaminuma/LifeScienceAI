@@ -37,3 +37,6 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
      - DextMP: deep dive into text for predicting moonlighting proteins.
      - DeepCNF: AUC-Maximized Deep Convolutional Neural Fields for Protein Sequence Labeling
      
+ # Reference
+ - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
+     
