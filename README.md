@@ -18,6 +18,17 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 - Attention RNNs 
   - [Domain Attention with an Ensemble of Experts](http://www.aclweb.org/anthology/P/P17/P17-1060.pdf)
   - [Neural Relation Extraction with Multi-lingual Attention](http://www.aclweb.org/anthology/P/P17/P17-1004.pdf)
+- Multimodal Deep Learning
+  - [Multimodal Deep Learning by Andrew Ng 2011](http://mfile.narotama.ac.id/files/Umum/JURNAR%20STANFORD/Multimodal%20deep%20learning.pdf)
+  
+|   | Feature Learning  | Supervised Training   | Testing   |   
+|---|---|---|---|
+| Classif Deep Learning  | Audio   | Audio   | Audio  |   
+| Classif Deep Learning  | Video   | Video   | Video  |  
+| Multimodal Fusion  | A+V   |  A+V   |  A+V  |  
+|   |   |   |   |   
+|   |   |   |   |         
+
 
 # DNN research from PubMed
 - 健康質問応答サービス
@@ -39,4 +50,5 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
      
  # Reference
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
+ - [Papers Deep Learning for Recommender System](http://shuaizhang.tech/2017/03/13/Papers-Deep-Learning-for-Recommender-System/)
      
