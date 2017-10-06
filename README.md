@@ -26,8 +26,10 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 | Classif Deep Learning  | Audio   | Audio   | Audio  |   
 | Classif Deep Learning  | Video   | Video   | Video  |  
 | Multimodal Fusion  | A+V   |  A+V   |  A+V  |  
-|   |   |   |   |   
-|   |   |   |   |         
+| Cross Modality Learning |  A+V  |  Video | Audio   |   
+| Cross Modality Learning |  A+V  |  Audio | Video   |   
+| Shared Representation Learning   | A+V   | Audio   | Video   |         
+| Shared Representation Learning   | A+V   | Video   | Audio   |         
 
 
 # DNN research from PubMed
