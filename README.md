@@ -3,10 +3,8 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 
 ## 学習方法
 
-- Meta Learning メタ学習
-  - [学習方法を学ぶ](https://medium.com/intuitionmachine/machines-that-search-for-deep-learning-architectures-c88ae0afb6c8) 
-  - bias-variance dilemma/tradeoff = simple models (bias大,variance小),　complex models (bias小,variance大) 
-
+- Supervised Learning
+- Semi-supervised Learning
 - Reinforcement Learning 強化学習 
 - Transfer Learning 転移学習 
   - A novel end-to-end classifier using domain transferred deep convolutional neural networks for biomedical images.
@@ -14,7 +12,11 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
   - TRANSFER LEARNING FOR MUSIC CLASSIFICATION AND REGRESSION TASKS,  Urbansound8K dataset. 
   - TRANSFER LEARNING FOR SEQUENCE TAGGING WITH HIERARCHICAL RECURRENT NETWORKS
   
-
+- Meta Learning メタ学習
+  - [学習方法を学ぶ](https://medium.com/intuitionmachine/machines-that-search-for-deep-learning-architectures-c88ae0afb6c8) 
+  - bias-variance dilemma/tradeoff = simple models (bias大,variance小),　complex models (bias小,variance大) 
+  - meta reinforcement learning
+  
 - Deep learning for structured data creation データ構造化の深層学習 
    - [Snokel](https://github.com/HazyResearch/snorkel) 
 - Attention RNNs 
