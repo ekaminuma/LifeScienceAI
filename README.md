@@ -3,8 +3,19 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 
 ## 学習方法
 
-- Supervised Learning
-- Semi-supervised Learning
+- Supervised Learning 教師あり学習
+  - LDA　線形判別分析
+  - SVM　サポートベクターマシーン
+  - Logistic Regression　ロジスティック回帰
+  - RandomForest　ランダムフォレスト
+- Unsupervised Learning 教師なし学習
+  - kmeans 
+  - PCA　主成分分析
+  - 階層型クラスター分析
+  - SOM　自己組織化マップ
+- Semi-supervised Learning　半教師あり学習
+
+- Ensembl Learning　 アンサンブル学習
 - Reinforcement Learning 強化学習 
 - Transfer Learning 転移学習 
   - A novel end-to-end classifier using domain transferred deep convolutional neural networks for biomedical images.
