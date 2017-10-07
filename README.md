@@ -1,6 +1,8 @@
 # LifeScience AI
 Reference MEMO of LifeScience AI by Eli Kaminuma
 
+## 学習方法
+
 - Meta Learning メタ学習
   - [学習方法を学ぶ](https://medium.com/intuitionmachine/machines-that-search-for-deep-learning-architectures-c88ae0afb6c8) 
   - bias-variance dilemma/tradeoff = simple models (bias大,variance小),　complex models (bias小,variance大) 
@@ -31,8 +33,26 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 | Shared Representation Learning   | A+V   | Audio   | Video   |         
 | Shared Representation Learning   | A+V   | Video   | Audio   |         
 
+## DNNフレームワーク
 
-# DNN research from PubMed
+Python
+- :us:Caffe, Caffe2 (UC Berkeley, Berkeley Vision and Learning Center ) 
+- :us:Tensorflow (google)
+- Theano
+- Keras -- TheanoかTensorflowのラッパーライブラリ
+- :jp:Chainer (Preferred Networks)
+- :us:CNTK (microsoft)
+- :cn:Paddle (baidu)
+- MeNet
+- PyTorch
+
+Lua
+- Torch
+
+JVM
+- DL4J
+
+## DNN文献リスト(from PubMed, etc.)
 - 健康質問応答サービス
 - [28606870](https://www.ncbi.nlm.nih.gov/pubmed/28606870) 2017  オンライン健康質問応答サービスの品質予測, 90日間3人医師でラベル付け
   multimodal deep belief network (DBN) both textual features and non-textual features 
@@ -50,7 +70,8 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
      - DextMP: deep dive into text for predicting moonlighting proteins.
      - DeepCNF: AUC-Maximized Deep Convolutional Neural Fields for Protein Sequence Labeling
      
- # Reference
+ ## Link多数掲載のまとめサイト
+ - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
  - [Papers Deep Learning for Recommender System](http://shuaizhang.tech/2017/03/13/Papers-Deep-Learning-for-Recommender-System/)
      
