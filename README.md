@@ -83,8 +83,7 @@ JVM
      - DextMP: deep dive into text for predicting moonlighting proteins.
      - DeepCNF: AUC-Maximized Deep Convolutional Neural Fields for Protein Sequence Labeling
 
-- Plant Cultivar Classification
-
+## Plant Cultivar Classification
 
 | PMID  | YEAR  | Classification Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|
