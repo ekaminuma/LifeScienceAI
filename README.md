@@ -93,6 +93,13 @@ JVM
 | 23857260  | 2013   | 4 rice cultivars   | seed hyperspectral images  | SVM,RF,PLSDA  | 80% (Accuracy)  |  
 | 22957050  | 2012   | 10 olive cultivars   | RAPD,ISSR markers | SVM,NB,RF  | 70% (Accuracy) |   
 
+## Plant Trait Prediction
+
+| PMID  | YEAR  | Species | Prediction Target   | Input Data  | Models |  Performance |
+|---|---|---|---|---|---|---|
+| 28574705  | 2017   | Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
+| 28857245  | 2017   | Faba Bean  | North/South, KSC | | RF, k-NN  | 84.5% (Accuracy)  |  
+
 
      
  ## Link多数掲載のまとめサイト
