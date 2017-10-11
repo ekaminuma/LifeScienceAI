@@ -85,13 +85,15 @@ JVM
 
 - Plant Cultivar Classification
 
+
 | PMID  | YEAR  | Classification Target   | Input Data  | Models |  Performance |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | 28857245  | 2017   |  16 European faba bean cultivars | 20 root traits  | k-NN  | 84.5% (Accuracy)  |  
 | 26669182  | 2015   | 4 pommelo cultivars   | leaf hyperspectral images  | PCA-LS-SVM  | 99.46% (Accuracy)  |  
 | 23857260  | 2013   | 4 rice cultivars   | seed hyperspectral images  | SVM,RF,PLSDA  | 80% (Accuracy)  |  
 | 22957050  | 2012   | 10 olive cultivars   | RAPD,ISSR  | SVM,NB,RF  | 70% (Accuracy) |   
-     
+
+
      
  ## Link多数掲載のまとめサイト
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
