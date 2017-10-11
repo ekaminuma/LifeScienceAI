@@ -102,7 +102,14 @@ JVM
 | 28405214 |2016|Soybean |  Plant stress severity rating | RGB Image | classification trees| 96% (Accuracy)  |  
 
 
-     
+## Plant Disease Prediction
+
+| PMID  | YEAR  | Species | Prediction Target   | Input Data  | Models |  Performance |
+|---|---|---|---|---|---|---|
+| 28574705  | 2017   | Rice  | rice blast disease  | 6 weather variables   | BPNN | 65.42% (Accuracy)  |  
+|  28386178  | 2017 | Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
+
+
  ## Link多数掲載のまとめサイト
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
