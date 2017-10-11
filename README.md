@@ -99,6 +99,7 @@ JVM
 |---|---|---|---|---|---|---|
 | 28574705  | 2017   | Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
 | 28857245  | 2017   | Faba Bean  | North/South, KSC | Root Traits| RF, k-NN  | 84.5% (Accuracy)  |  
+|  28386178  | 2017 | Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
 | 28405214 |2016|Soybean |  Plant stress severity rating | RGB Image | classification trees| 96% (Accuracy)  |  
 
 
@@ -107,7 +108,7 @@ JVM
 | PMID  | YEAR  | Species | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | 28574705  | 2017   | Rice  | rice blast disease  | 6 weather variables   | BPNN | 65.42% (Accuracy)  |  
-|  28386178  | 2017 | Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
+
 
 
  ## Link多数掲載のまとめサイト
