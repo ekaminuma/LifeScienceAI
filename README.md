@@ -98,7 +98,8 @@ JVM
 | PMID  | YEAR  | Species | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | 28574705  | 2017   | Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
-| 28857245  | 2017   | Faba Bean  | North/South, KSC | | RF, k-NN  | 84.5% (Accuracy)  |  
+| 28857245  | 2017   | Faba Bean  | North/South, KSC | Root Traits| RF, k-NN  | 84.5% (Accuracy)  |  
+    28405214 |2016|Soybean |  Plant stress severity rating | Image |96% (Accuracy)  |  
 
 
      
