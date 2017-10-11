@@ -97,6 +97,7 @@ JVM
 
 | PMID  | YEAR  | Species | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
+|  28585253    | 2017 | Bean | canned black bean texture | Hyper spectral images |PLSR | |
 | 28574705  | 2017   | Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
 | 28857245  | 2017   | Faba Bean  | North/South, KSC | Root Traits| RF, k-NN  | 84.5% (Accuracy)  |  
 |  28386178  | 2017 | Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
