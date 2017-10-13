@@ -95,7 +95,7 @@ JVM
 
 ## Plant Trait Prediction
 
-| PMID  | YEAR  | Species | Prediction Target   | Input Data  | Models |  Performance |
+| PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 |  28585253    | 2017 | Bean | canned black bean texture | Hyper spectral images |PLSR | |
 | 28574705  | 2017   | Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
@@ -106,13 +106,13 @@ JVM
 
 ## Plant Disease Prediction
 
-| PMID  | YEAR  | Species | Prediction Target   | Input Data  | Models |  Performance |
+| PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | 28574705  | 2017   | Rice  | rice blast disease  | 6 weather variables   | BPNN | 65.42% (Accuracy)  |  
 
 ## Host Prediction
 
-| PMID  | YEAR  | Species | Prediction Target   | Input Data  | Models |  Performance |
+| PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | 28361670  | 2017   | Bacteria  | 9 bacterial host genera  | 45 infectious viruses  | LR.SVM,RF | 85% (AUC)  |  
 
