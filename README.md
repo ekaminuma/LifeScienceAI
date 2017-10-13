@@ -108,6 +108,7 @@ JVM
 
 | PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
+| 28757863   | 2017   | Apple  |  disease severity classification  | apple leaf black rot images in PlantVillage dataset  | CNN-VGG16 | 90.4% (Accuracy)  |  
 | 28574705  | 2017   | Rice  | rice blast disease  | 6 weather variables   | BPNN | 65.42% (Accuracy)  |  
 
 ## Host Prediction
