@@ -135,7 +135,7 @@ JVM
 
 ## 大規模データセット
 - ImageNet
-- Microsoft COCO dataset
+- Microsoft COCO dataset - 330K images (>200K labeled), 1.5M object instances, 80 object categories
 
 ## Link多数掲載のまとめサイト
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
