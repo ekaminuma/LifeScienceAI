@@ -47,7 +47,10 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 | Shared Representation Learning   | A+V   | Video   | Audio   |        
 
 - Deep Probabilistic Programming 
-   - [Edward](http://edwardlib.org/) (tensorflow backend)
+   - [Edward](http://edwardlib.org/) (tensorflow backend, VI=BBVI, MCMC=MH/HMG/SGLD)
+   - [PyMC3]() (theano backend, VI=ADVI, MCMC=HM/HMC/NUTS)
+   - Stan, Anglican, Church, venture, Figaro, WebPPL
+   
 
 ## DNNフレームワーク
 
