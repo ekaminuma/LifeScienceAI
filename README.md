@@ -53,6 +53,7 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
         - BBVI=Blackbox Variational Inference, ADVI=Automatic Differentiation Variational Inference
         - MH=Metropolis Hastings, HMC=Hamilton Monte Carlo, SGLD=Stochastic Gradient Langevin Dynamics
         - NUTS= No-U-Turn Sampler
+    - [zhusuan](https://github.com/thu-ml/zhusuan?utm_content=buffer12448&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)    
     - Stan, Anglican, Church, venture, Figaro, WebPPL
 - Deep Probabilistic Programming [PAPERS]
      - https://arxiv.org/pdf/1701.03757.pdf
