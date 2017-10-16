@@ -48,7 +48,10 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 
 - Deep Probabilistic Programming 
    - [Edward](http://edwardlib.org/) (tensorflow backend, VI=BBVI, MCMC=MH/HMG/SGLD)
-   - [PyMC3]() (theano backend, VI=ADVI, MCMC=HM/HMC/NUTS)
+   - [PyMC3]() (theano backend, VI=ADVI, MCMC=MH/HMC/NUTS)
+       - BBVI=Blackbox Variational Inference, ADVI=Automatic Differentiation Variational Inference
+       - MH=Metropolis Hastings, HMC=Hamilton Monte Carlo, SGLD=Stochastic Gradient Langevin Dynamics
+       - NUTS= No-U-Turn Sampler
    - Stan, Anglican, Church, venture, Figaro, WebPPL
    
 
@@ -130,7 +133,11 @@ JVM
 | 28361670  | 2017   | Bacteria  | 9 bacterial host genera  | 45 infectious viruses  | LR.SVM,RF | 85% (AUC)  |  
 
 
- ## Link多数掲載のまとめサイト
+## 大規模データセット
+- ImageNet
+- Microsoft COCO dataset
+
+## Link多数掲載のまとめサイト
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
  - [Papers Deep Learning for Recommender System](http://shuaizhang.tech/2017/03/13/Papers-Deep-Learning-for-Recommender-System/)
