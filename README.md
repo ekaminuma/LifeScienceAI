@@ -55,7 +55,8 @@ Python
 - :us:Caffe, Caffe2 (UC Berkeley, Berkeley Vision and Learning Center ) 
 - :us:Tensorflow (google)
 - Theano
-- Keras -- TheanoかTensorflowのラッパーライブラリ
+- Keras -- Backend(TheanoかTensorflow)
+- Edward -- Backend(Tensorflow) 
 - :jp:Chainer (Preferred Networks)
 - :us:CNTK (microsoft)
 - :cn:Paddle (baidu)
