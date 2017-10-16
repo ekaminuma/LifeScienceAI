@@ -56,6 +56,13 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
     - Stan, Anglican, Church, venture, Figaro, WebPPL
 - Deep Probabilistic Programming [PAPERS]
      - https://arxiv.org/pdf/1701.03757.pdf
+- Deep Probabilistic Programming [SAMPLES]
+     - [混合ガウスモデル](http://s0sem0y.hatenablog.com/entry/2017/07/01/090657)
+     - [Bayesian DNN＋Variational Inference](http://mathetake.hatenablog.com/entry/2017/01/19/134054)
+     - Edward = Tensorflow + PPL
+     - ベイジアンリカレントネット, ベイズ推定, MCMC, 変分推定 
+     - http://edwardlib.org/tutorials/
+     
 
 ## DNNフレームワーク
 
