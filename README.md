@@ -62,7 +62,7 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
      - Edward = Tensorflow + PPL
      - ベイジアンリカレントネット, ベイズ推定, MCMC, 変分推定 
      - http://edwardlib.org/tutorials/
-     
+     - ![Edward構造](https://cdn-ak.f.st-hatena.com/images/fotolife/x/xiangze/20170801/20170801071255.png "Edward")
 
 ## DNNフレームワーク
 
