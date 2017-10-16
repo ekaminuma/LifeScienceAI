@@ -46,14 +46,16 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 | Shared Representation Learning   | A+V   | Audio   | Video   |         
 | Shared Representation Learning   | A+V   | Video   | Audio   |        
 
-- Deep Probabilistic Programming 
-   - [Edward](http://edwardlib.org/) (tensorflow backend, VI=BBVI, MCMC=MH/HMG/SGLD)
-   - [PyMC3]() (theano backend, VI=ADVI, MCMC=MH/HMC/NUTS)
-       - BBVI=Blackbox Variational Inference, ADVI=Automatic Differentiation Variational Inference
-       - MH=Metropolis Hastings, HMC=Hamilton Monte Carlo, SGLD=Stochastic Gradient Langevin Dynamics
-       - NUTS= No-U-Turn Sampler
-   - Stan, Anglican, Church, venture, Figaro, WebPPL
-   
+- Deep Probabilistic Programming [TOOLS]
+  - TOOLS
+    - [Edward](http://edwardlib.org/) (tensorflow backend, VI=BBVI, MCMC=MH/HMG/SGLD)
+    - [PyMC3]() (theano backend, VI=ADVI, MCMC=MH/HMC/NUTS)
+        - BBVI=Blackbox Variational Inference, ADVI=Automatic Differentiation Variational Inference
+        - MH=Metropolis Hastings, HMC=Hamilton Monte Carlo, SGLD=Stochastic Gradient Langevin Dynamics
+        - NUTS= No-U-Turn Sampler
+    - Stan, Anglican, Church, venture, Figaro, WebPPL
+- Deep Probabilistic Programming [PAPERS]
+     - https://arxiv.org/pdf/1701.03757.pdf
 
 ## DNNフレームワーク
 
