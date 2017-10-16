@@ -70,7 +70,7 @@ JVM
 
 ## DNN文献リスト(from PubMed, etc.)
 - [Deep Patient](https://www.ncbi.nlm.nih.gov/pubmed/27185194)
-    - electronic health records (EHRs)から、患者の将来を予測(AUC=0.773)
+    - electronic health records (EHRs)から、患者の将来のDisease Riskを予測(AUC=0.773)
     - using 76,214 test patients comprising 78 diseases 
 - 健康質問応答サービス
 - [28606870](https://www.ncbi.nlm.nih.gov/pubmed/28606870) 2017  オンライン健康質問応答サービスの品質予測, 90日間3人医師でラベル付け
