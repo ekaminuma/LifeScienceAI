@@ -60,6 +60,7 @@ Python
 - :jp:Chainer (Preferred Networks)
 - :us:CNTK (microsoft)
 - :cn:Paddle (baidu)
+- Sonnet (DeepMind)
 - MeNet
 - PyTorch
 
