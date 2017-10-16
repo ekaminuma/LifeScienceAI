@@ -76,8 +76,8 @@ JVM
 - [28606870](https://www.ncbi.nlm.nih.gov/pubmed/28606870) 2017  オンライン健康質問応答サービスの品質予測, 90日間3人医師でラベル付け
   multimodal deep belief network (DBN) both textual features and non-textual features 
 - 病理組織分類
- - 2017 横紋筋肉腫の病理組織学的サブタイプ分類, 転移学習, Multimodal(拡散強調MRスキャン（DWI）とガドリニウムキレート強化T1強調MRスキャン（MRI）の融合)
- - 2017 [腎臓のsegmentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435691/)
+  - 2017 横紋筋肉腫の病理組織学的サブタイプ分類, 転移学習, Multimodal(拡散強調MRスキャン（DWI）とガドリニウムキレート強化T1強調MRスキャン（MRI）の融合)
+  - 2017 [腎臓のsegmentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435691/)
 - 微生物分類
   - Deep learning approach to bacterial colony classification. DIBaS dataset ( 660 images with 33 different genera and species of bacteria.)
 - 植物葉分類
