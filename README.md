@@ -147,6 +147,10 @@ JVM
 - ImageNet
 - Microsoft [COCO dataset](http://cocodataset.org/) - 330K images (>200K labeled), 1.5M object instances, 80 object categories
 
+## Webサービス
+- [WebDNN](https://mil-tokyo.github.io/webdnn/ja/) (東大原田・牛久研究室)
+-　[Google Teachable Machine](https://teachablemachine.withgoogle.com/) Google提供。PCカメラで深層学習のデモが出来る。
+
 ## Link多数掲載のまとめサイト
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
