@@ -1,4 +1,4 @@
-<link href="ek_style_md.css" rel="stylesheet"></link>
+<link href="ek_bootstrap_md.css" rel="stylesheet"></link>
 # LifeScience AI
 Reference MEMO of LifeScience AI by Eli Kaminuma
 
