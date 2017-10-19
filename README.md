@@ -1,4 +1,4 @@
-<link href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.9.0/github-markdown.css" rel="stylesheet"></link>
+<link href="ek_style_md.css" rel="stylesheet"></link>
 # LifeScience AI
 Reference MEMO of LifeScience AI by Eli Kaminuma
 
