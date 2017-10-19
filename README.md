@@ -145,7 +145,7 @@ JVM
 
 ## Others
 
-| PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
+| PMID  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | 26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
 
