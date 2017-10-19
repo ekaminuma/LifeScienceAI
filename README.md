@@ -143,6 +143,12 @@ JVM
 |---|---|---|---|---|---|---|
 | 28361670  | 2017   | Bacteria  | 9 bacterial host genera  | 45 infectious viruses  | LR.SVM,RF | 85% (AUC)  |  
 
+## Others
+
+| PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
+|---|---|---|---|---|---|---|
+| 26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
+
 
 ## 大規模データセット
 - ImageNet
