@@ -190,6 +190,7 @@ JVM
 |---|---|---|---|---|---|---|
 | 26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
 | 26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
+| arxiv.1703.08970 | 2017   | EEG+EMG  | 4 labels  | EEG signals + EMG signals  | MM-CNN | 78.1% (Accuracy)   |
 | 26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
 | 26950929   | 2014   |  |   | images | deep Boltzmann machine (DBM)-based27 multimodal learning
 model | 25.4% (MAP)  | 
