@@ -66,6 +66,35 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
      - http://edwardlib.org/tutorials/
      - ![Edward構造](https://cdn-ak.f.st-hatena.com/images/fotolife/x/xiangze/20170801/20170801071255.png "Edward")
 
+## Taxonomy of Multimodal Research
+
+- Representation
+   - Joint (NN, Graphical models, Sequential)
+   - Coordinated (Similarity, Structured)
+- Translation
+   - Example-based (Retrieval, Combination)
+   - Model-based (Grammar-based, Encoder-decoder, Online prediction)
+- Alignment
+   - Explicit (Unsupervised, Supervised)
+   - Implicit (Graphical models, NN)
+- Fusion
+   - Model agnostic (Early fusion, Late fusion, Hybrid fusion)
+   - Model-based (Kernel-based, Graphical models, NN)
+- Co-learning 
+    - Parallel data
+       - Co-training
+       - Transfer learning
+    - Non-parallel data
+       - zero-shot learning
+       - concept grounding
+       - transfer learning
+    - Hybrid data
+       - Bridging
+ - Reference
+     - https://arxiv.org/abs/1705.09406
+     - https://arxiv.org/abs/1705.09406 Multimodal Applications
+     - https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf
+
 ## DNNフレームワーク
 
 Python
