@@ -96,6 +96,12 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
      - https://arxiv.org/abs/1705.09406 Multimodal Applications
      - https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf
 
+## MMMLアプリケーション
+
+| PMID  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
+|---|---|---|---|---|---|---|
+| 28582269   | 2017   |   |  | images | MM-CNN | 95.7% for indolent PCa,97.8% for CS lesions (AUC)  |   
+
 ## DNNフレームワーク
 
 Python
