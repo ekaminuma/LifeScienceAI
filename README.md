@@ -184,7 +184,8 @@ JVM
 | PMID  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | 26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
-
+| 26950929   | 2014   |  |   | images | deep Boltzmann machine (DBM)-based27 multimodal learning
+model | 25.4% (MAP)  | 
 
 ## 大規模データセット
 - ImageNet
