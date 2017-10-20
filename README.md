@@ -188,6 +188,7 @@ JVM
 
 | PMID  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
+| arxiv.1704.03152 |2017 ｜CorrRNN (temporal model for temporal data) |  
 | 26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
 | 26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
 | arxiv.1703.08970 | 2017   | EEG+EMG  | 4 labels  | EEG signals + EMG signals  | MM-CNN | 78.1% (Accuracy)   |
@@ -199,6 +200,9 @@ model | 25.4% (MAP)  |
 情報科学
 - ImageNet
 - Microsoft [COCO dataset](http://cocodataset.org/) - 330K images (>200K labeled), 1.5M object instances, 80 object categories
+- ISI dataset
+       - 11 subjects perform seven actions related to an insulin selfinjection activity. 
+       - The dataset includes egocentric video data acquired using a Google Glass wearable camera, and motion data acquired using an Invensense motion wrist sensor.
 
 ライフサイエンス
 - [ANDI:The Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) 
