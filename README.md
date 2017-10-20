@@ -2,6 +2,11 @@
 # LifeScience AI
 Reference MEMO of LifeScience AI by Eli Kaminuma
 
+## Keywords
+- convolutional neural networks (CNNs)
+- clinically significant (CS) 
+- apparent diffusion coefficients (ADCs) 
+
 ## 学習方法
 
 - Supervised Learning 教師あり学習
@@ -183,6 +188,8 @@ JVM
 
 | PMID  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
+| 26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
+| 26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
 | 26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
 | 26950929   | 2014   |  |   | images | deep Boltzmann machine (DBM)-based27 multimodal learning
 model | 25.4% (MAP)  | 
@@ -191,6 +198,8 @@ model | 25.4% (MAP)  |
 - ImageNet
 - Microsoft [COCO dataset](http://cocodataset.org/) - 330K images (>200K labeled), 1.5M object instances, 80 object categories
 - [ANDI:The Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) 818 ADNI participants (at the time, 128 with AD, 415 with MCI, 267 controls and 8 of uncertain diagnosis). Illumina Omni 2.5M genome-wide association study (GWAS) single nucleotide polymorphism (SNP) arrays.
+-  Temple University Hospital (TUH) EEG Corpus13 (over 25,000 sessions and 15,000 patients collected over 12 years). 
+-  EEG recording from the TUH EEG corpus contains 20MB of raw data, stored in the European Data Format (EDF+) file schema
 
 ## Webサービス
 - [WebDNN](https://mil-tokyo.github.io/webdnn/ja/) (東大原田・牛久研究室)
