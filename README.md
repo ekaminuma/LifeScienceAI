@@ -205,6 +205,7 @@ model | 25.4% (MAP)  |
        - Illumina Omni 2.5M genome-wide association study (GWAS) single nucleotide polymorphism (SNP) arrays
 -  [CADDementia](https://caddementia.grand-challenge.org/) 
       - Computer-Aided Diagnosis of Dementia based on structural MRI data.
+      - data collected from three different sites, total 384  MRI scans 
 -  [Temple University Hospital (TUH) EEG Corpus](https://www.isip.piconepress.com/projects/tuh_eeg/html/overview.shtml)
      -  ver13 :  over 25,000 sessions and 15,000 patients collected over 12 years 
      -  20MB of raw data, European Data Format (EDF+) file schema
