@@ -66,7 +66,7 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
      - http://edwardlib.org/tutorials/
      - ![Edward構造](https://cdn-ak.f.st-hatena.com/images/fotolife/x/xiangze/20170801/20170801071255.png "Edward")
 
-## Taxonomy of Multimodal Research
+## Taxonomy of Multimodal Machine Learning (MMML) 
 
 - Representation
    - Joint (NN, Graphical models, Sequential)
@@ -91,7 +91,8 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
     - Hybrid data
        - Bridging
  - Reference
-     - https://arxiv.org/abs/1705.09406
+     - [MultiModel: Multi-Task Machine Learning Across Domains by Google Research Blog, June 2017](https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)
+     - [Multimodal Machine Learning:A Survey and Taxonomy from CMU Baltrusaitis et al.,2017](https://arxiv.org/abs/1705.09406)
      - https://arxiv.org/abs/1705.09406 Multimodal Applications
      - https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf
 
@@ -186,6 +187,11 @@ JVM
 ## Webサービス
 - [WebDNN](https://mil-tokyo.github.io/webdnn/ja/) (東大原田・牛久研究室)
 -　[Google Teachable Machine](https://teachablemachine.withgoogle.com/) Google提供。PCカメラで深層学習のデモが出来る。
+
+## Google(Tensorflow/etc) 
+- [Deeplarningjs.org](https://deeplearnjs.org/demos/) web-based machine learning(WebGL)
+- [Tensorboard API](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins)
+- [Tensorboard] plugin example](https://github.com/tensorflow/tensorboard-plugin-example)
 
 ## Link多数掲載のまとめサイト
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
