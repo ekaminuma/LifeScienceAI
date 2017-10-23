@@ -98,7 +98,6 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
     - Hybrid data
        - Bridging
  - Reference
-     - [MultiModel: Multi-Task Machine Learning Across Domains by Google Research Blog, June 2017](https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)
      - [Multimodal Machine Learning:A Survey and Taxonomy from CMU Baltrusaitis et al.,2017](https://arxiv.org/abs/1705.09406)
      - https://arxiv.org/abs/1705.09406 Multimodal Applications
      - https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf
@@ -225,6 +224,7 @@ model | 25.4% (MAP)  |
 - [Deeplarningjs.org](https://deeplearnjs.org/demos/) web-based machine learning(WebGL)
 - [Tensorboard API](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins)
 - [Tensorboard] plugin example](https://github.com/tensorflow/tensorboard-plugin-example)
+- [MultiModel: Multi-Task Machine Learning Across Domains by Google Research Blog, June 2017](https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)
 
 ## Link多数掲載のまとめサイト
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
