@@ -104,6 +104,8 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 
 ## MMMLアプリケーション
 
+- [X-FIDO:An Effective Application for Detecting Olive Quick Decline Syndrome with Deep Learning and Data Fusion](https://www.frontiersin.org/articles/10.3389/fpls.2017.01741/full)
+
 | PMID  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | 28582269   | 2017   |   |  | images | MM-CNN | 95.7% for indolent PCa,97.8% for CS lesions (AUC)  |   
