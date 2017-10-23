@@ -53,7 +53,7 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 | Cross Modality Learning |  A+V  |  Audio | Audio   |   
 | Shared Representation Learning   | A+V   | Audio   | Video   |         
 | Shared Representation Learning   | A+V   | Video   | Audio   |        
-
+- Multimodal Data Fusion : [Survey2015](https://hal.archives-ouvertes.fr/hal-01179853/file/Lahat_Adali_Jutten_DataFusion_2015.pdf)
 - Deep Probabilistic Programming [TOOLS]
   - TOOLS
     - [Edward](http://edwardlib.org/) (tensorflow backend, VI=BBVI, MCMC=MH/HMG/SGLD)
