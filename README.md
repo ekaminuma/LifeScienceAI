@@ -76,7 +76,7 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 ## Taxonomy of Multimodal Machine Learning (MMML) 
 
 - Representation
-   - Joint (NN, Graphical models, Sequential)
+   - ___Joint___ (___NN___, Graphical models, Sequential)
    - Coordinated (Similarity, Structured)
 - Translation
    - Example-based (Retrieval, Combination)
