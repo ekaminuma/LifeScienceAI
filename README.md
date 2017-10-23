@@ -46,11 +46,11 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
   
 |   | Feature Learning  | Supervised Training   | Testing   |   
 |---|---|---|---|
-| Classif Deep Learning  | Audio   | Audio   | Audio  |   
-| Classif Deep Learning  | Video   | Video   | Video  |  
+| Classic Deep Learning  | Audio   | Audio   | Audio  |   
+| Classic Deep Learning  | Video   | Video   | Video  |  
 | Multimodal Fusion  | A+V   |  A+V   |  A+V  |  
-| Cross Modality Learning |  A+V  |  Video | Audio   |   
-| Cross Modality Learning |  A+V  |  Audio | Video   |   
+| Cross Modality Learning |  A+V  |  Video | Video   |   
+| Cross Modality Learning |  A+V  |  Audio | Audio   |   
 | Shared Representation Learning   | A+V   | Audio   | Video   |         
 | Shared Representation Learning   | A+V   | Video   | Audio   |        
 
