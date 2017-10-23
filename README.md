@@ -83,10 +83,10 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
    - Model-based (Grammar-based, Encoder-decoder, Online prediction)
 - Alignment
    - Explicit (Unsupervised, Supervised)
-   - Implicit (Graphical models, NN)
+   - <p class="info">Implicit</p> (Graphical models, <p class="info">NN</p> )
 - Fusion
    - Model agnostic (Early fusion, Late fusion, Hybrid fusion)
-   - Model-based (Kernel-based, Graphical models, NN)
+   - <p class="info">Model-based</p> (Kernel-based, Graphical models, <p class="info">NN</p>)
 - Co-learning 
     - Parallel data
        - Co-training
