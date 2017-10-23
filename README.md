@@ -41,6 +41,8 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
   - [Neural Relation Extraction with Multi-lingual Attention](http://www.aclweb.org/anthology/P/P17/P17-1004.pdf)
 - Multimodal Deep Learning
   - [Multimodal Deep Learning by Andrew Ng 2011](http://mfile.narotama.ac.id/files/Umum/JURNAR%20STANFORD/Multimodal%20deep%20learning.pdf)
+   - zero-shot learning by [CVPR17 tutorial](http://isis-data.science.uva.nl/tmensink/docs/ZSL17.web.pdf)
+   - generating visual explanations by Hendricks et.al. ECCV’16
   
 |   | Feature Learning  | Supervised Training   | Testing   |   
 |---|---|---|---|
