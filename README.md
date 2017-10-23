@@ -44,7 +44,7 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
    - zero-shot learning by [CVPR17 tutorial](http://isis-data.science.uva.nl/tmensink/docs/ZSL17.web.pdf)
    - generating visual explanations by Hendricks et.al. ECCV’16
   
-|   | Feature Learning  | Supervised Training   | Testing   |   
+| Ng's types  | Feature Learning  | Supervised Training   | Testing   |   
 |---|---|---|---|
 | Classic Deep Learning  | Audio   | Audio   | Audio  |   
 | Classic Deep Learning  | Video   | Video   | Video  |  
