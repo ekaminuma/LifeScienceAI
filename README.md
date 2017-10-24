@@ -206,6 +206,8 @@ model | 25.4% (MAP)  |
 - ISI dataset
        - 11 subjects perform seven actions related to an insulin selfinjection activity. 
        - The dataset includes egocentric video data acquired using a Google Glass wearable camera, and motion data acquired using an Invensense motion wrist sensor.
+- CMU-MOSI: Multimodal Opinion Sentiment Intensity 
+        - video opinions from youtube movie reviews
 
 ライフサイエンス
 - [ANDI:The Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) 
