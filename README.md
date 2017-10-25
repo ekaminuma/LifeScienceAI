@@ -189,6 +189,7 @@ JVM
 | J. Phys.: Conf. Ser. 803 012177 | 2017   | wheat, rapeseed, phacelia, flax, white mastard | 9 crop taxons  | images  | DNN | 95% (Accuracy)  | 
 | PMID: 28420197 | 2017   | chinese cabbage | seed qualify  | images  | BPNN | 90.38% (Accuracy)  | 
 |   | 2013   | [REVIEW](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.429.1008&rep=rep1&type=pdf) | seed classification   | images  | ---- | ---% (Accuracy)  | 
+| PMID:  | 2015   | weed | seed   | 3980 images  | PCANet | 90.96% (Accuracy)  | 
 | PMID:  | 2012   | chickpea | seed   | 400 images  | BPNN,SOM | 79% (Accuracy)  | 
 | PMID:  | 2010   | cotton | seed   | 400 images  | BPNN,DT | 79% (Accuracy)  | 
 
