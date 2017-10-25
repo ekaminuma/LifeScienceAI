@@ -187,7 +187,7 @@ JVM
 | CITATION  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | J. Phys.: Conf. Ser. 803 012177 | 2017   | wheat, rapeseed, phacelia, flax, white mastard | 9 crop taxons  | images  | DNN | 95% (Accuracy)  | 
-| SPMID: 28420197 | 2017   | chinese cabbage | seed qualify  | images  | BPNN | 90.38% (Accuracy)  | 
+| PMID: 28420197 | 2017   | chinese cabbage | seed qualify  | images  | BPNN | 90.38% (Accuracy)  | 
 
 
 ## Host Prediction
