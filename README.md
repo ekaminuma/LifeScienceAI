@@ -103,7 +103,7 @@
      - https://arxiv.org/abs/1705.09406 Multimodal Applications
      - https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf
 
-## MMMLアプリケーション
+## MMML Applications
 
 - [X-FIDO:An Effective Application for Detecting Olive Quick Decline Syndrome with Deep Learning and Data Fusion](https://www.frontiersin.org/articles/10.3389/fpls.2017.01741/full)
 
@@ -111,7 +111,7 @@
 |---|---|---|---|---|---|---|
 | 28582269   | 2017   |   |  | images | MM-CNN | 95.7% for indolent PCa,97.8% for CS lesions (AUC)  |   
 
-## DNNフレームワーク
+## DNN Frameworks
 
 Python
 - :us:Caffe, Caffe2 (UC Berkeley, Berkeley Vision and Learning Center ) 
