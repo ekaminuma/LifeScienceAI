@@ -115,7 +115,7 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 Python
 - :us:Caffe, Caffe2 (UC Berkeley, Berkeley Vision and Learning Center ) 
 - :us:Tensorflow (google)
-- :flag_ca:Theano (Université de Montréal)
+- :canada:Theano (Université de Montréal)
 - Keras -- Backend(TheanoかTensorflow)
 - Edward -- Backend(Tensorflow) 
 - :jp:Chainer (Preferred Networks)
@@ -132,7 +132,7 @@ JVM
 
 ## CNN Architectures
 
-- ILSVRC'12 = [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (:flag_ca: Univ of Tronto, Prof. Hinton) = 8 layers
+- ILSVRC'12 = [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (:canada: Univ of Tronto, Prof. Hinton) = 8 layers
 - ILSVRC'14 = [VGG](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) (:uk:Univ of Oxford, VGG Group) = 19 layers
 - ILSVRC'14 = GoogLeNet (:us:Google)      = 22 layers
 - ILSVRC'15 = ResNet (:us:Microsoft Research Asia)  = 152 layers
