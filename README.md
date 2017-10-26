@@ -131,6 +131,14 @@ Lua
 JVM
 - DL4J
 
+## CNN Architectures
+
+- ILSVRC'12 = [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (Prof. Hinton) = 8 layers
+- ILSVRC'14 = [VGG](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) (Univ.of Oxford) = 19 layers
+- ILSVRC'14 = GoogLeNet (Google)      = 22 layers
+- ILSVRC'15 = ResNet (Microsoft Research Asia)  = 152 layers
+- [アーキテクチャ精度解説資料](http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice201705cvcomp.pdf)
+
 ## DNN文献リスト(from PubMed, etc.)
 - [Deep Patient](https://www.ncbi.nlm.nih.gov/pubmed/27185194)
     - electronic health records (EHRs)から、患者の将来のDisease Riskを予測(AUC=0.773)
