@@ -256,8 +256,15 @@ model | 25.4% (MAP)  |
  
 ## 機械学習用のNotePC
  - [DELL Alienware](http://www.dell.com/jp/business/p/laptops#!dlpgid=alienware-laptops?~ck=bt)
+      - GeForce GTX 1060/1070搭載 NEW ALIENWARE 17
+      - GeForce GTX 1060/1070搭載 NEW ALIENWARE 15     
+ - [HP OMEN]
+      - OMEN HP15-ce000 GeForce GTX 1060
+      - OMEN HP17-an000 GeForce GTX 1060
+      - OMEN HP17-an000 GeForce GTX 1070
+      - OMEN X HP17 GeForce GTX 1080
  
 ## GPUカードの深層学習計算時間の性能比較
 
  - [Googlenet, Alexnet](http://www.hpc.co.jp/benchmark20160610.html) Report from HPC Systems.
-     
+ 
