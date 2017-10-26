@@ -245,7 +245,30 @@ model | 25.4% (MAP)  |
 -  [Temple University Hospital (TUH) EEG Corpus](https://www.isip.piconepress.com/projects/tuh_eeg/html/overview.shtml)
      -  ver13 :  over 25,000 sessions and 15,000 patients collected over 12 years 
      -  20MB of raw data, European Data Format (EDF+) file schema
+     
+## Major Competitions
+情報科学
+ - [ILSVRC](www.image-net.org/challenges/LSVRC/): ImageNet Large Scale Visual Recognition Competition
+ - ImageCLEF
+      - ImageCLEFcaption
+      - ImageCLEFlifelog
+      - ImageCLEFtuberculosis
+      - visualQuestionAnswering
+      - Medical Task
+      - Image Annotation Task
+      - Handwritten Retrieval 
+      - Robot vision
+      - Liver CT annotation
+      - Domain adaptation
+      - Plant identification
+ - LifeCLEF
+      - PlantCLEF
+      - SeaCLEF
+      - BirdCLEF
+      - GeoLifeCLEF
+      - ExperLifeCLEF
 
+ 
 ## Webサービス
 - [WebDNN](https://mil-tokyo.github.io/webdnn/ja/) (東大原田・牛久研究室)
 -　[Google Teachable Machine](https://teachablemachine.withgoogle.com/) Google提供。PCカメラで深層学習のデモが出来る。
