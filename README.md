@@ -120,13 +120,13 @@ Python
 - Keras -- Backend(TheanoかTensorflow)
 - Edward -- Backend(Tensorflow) 
 - :jp:Chainer (Preferred Networks)
-- :us:CNTK (microsoft)
-- :cn:Paddle (baidu)
+- :us:CNTK (Microsoft)
+- :cn:Paddle (Baidu)
 - :uk:Sonnet (DeepMind)
-- PyTorch
+- :us:PyTorch (Facebook)
 
 Lua
-- Torch
+- :us:Torch (Facebook)
 
 JVM
 - DL4J
