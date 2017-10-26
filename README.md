@@ -150,9 +150,9 @@ JVM
      - So what's the big deal with autoencoders?
      - Let's build the simplest possible autoencoder
      - Adding a sparsity constraint on the encoded representations
-     - ___Deep autoencoder___
+     - ___Deep autoencoder___ = 多層
      - ___Convolutional autoencoder___
-     - Application to image denoising
+     - Application to ___image denoising___
      - ___Sequence-to-sequence autoencoder___
      - ___Variational autoencoder (VAE)___
 
