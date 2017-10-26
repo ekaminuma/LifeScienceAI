@@ -137,7 +137,7 @@ JVM
 - ILSVRC'14 = [VGG](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) (Univ.of Oxford) = 19 layers
 - ILSVRC'14 = GoogLeNet (Google)      = 22 layers
 - ILSVRC'15 = ResNet (Microsoft Research Asia)  = 152 layers
-- [アーキテクチャ精度解説資料](http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice201705cvcomp.pdf)
+- [アーキテクチャ精度解説資料](http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice201705cvcomp.pdf) = 画像解析関連コンペティションの潮流 中山英樹 信学会 100:373,2017
 
 ## DNN文献リスト(from PubMed, etc.)
 - [Deep Patient](https://www.ncbi.nlm.nih.gov/pubmed/27185194)
