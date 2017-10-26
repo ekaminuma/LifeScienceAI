@@ -274,5 +274,7 @@ model | 25.4% (MAP)  |
  
 ## GPUカードの深層学習計算時間の性能比較
 
- - [Googlenet, Alexnet](http://www.hpc.co.jp/benchmark20160610.html) Report from HPC Systems.
+ - [Benchmark Report from HPC Systems](http://www.hpc.co.jp/benchmark20160610.html)
+      - GPU card: NVIDIA® GeForce® GTX 1080
+      - CNN Architectures: GoogLeNet and AlexNet 
  
