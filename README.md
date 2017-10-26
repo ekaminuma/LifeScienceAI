@@ -1,6 +1,7 @@
 <link href="ek_bootstrap_md.css" rel="stylesheet"></link>
-# LifeScience AI
-Reference MEMO of LifeScience AI by Eli Kaminuma
+
+## LifeScience AI by Eli Kaminuma
+- Reference MEMO of LifeScience AI
 
 ## Keywords
 - convolutional neural networks (CNNs)
