@@ -115,14 +115,13 @@ Reference MEMO of LifeScience AI by Eli Kaminuma
 Python
 - :us:Caffe, Caffe2 (UC Berkeley, Berkeley Vision and Learning Center ) 
 - :us:Tensorflow (google)
-- Theano
+- :flag_ca:Theano (Université de Montréal)
 - Keras -- Backend(TheanoかTensorflow)
 - Edward -- Backend(Tensorflow) 
 - :jp:Chainer (Preferred Networks)
 - :us:CNTK (microsoft)
 - :cn:Paddle (baidu)
-- Sonnet (DeepMind)
-- MeNet
+- :uk:Sonnet (DeepMind)
 - PyTorch
 
 Lua
