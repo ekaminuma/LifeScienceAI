@@ -256,4 +256,8 @@ model | 25.4% (MAP)  |
  
 ## 機械学習用のNotePC
  - [DELL Alienware](http://www.dell.com/jp/business/p/laptops#!dlpgid=alienware-laptops?~ck=bt)
+ 
+## GPUカードの深層学習計算時間の性能比較
+
+ - [Googlenet, Alexnet](http://www.hpc.co.jp/benchmark20160610.html) Report from HPC Systems.
      
