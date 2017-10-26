@@ -261,7 +261,7 @@ model | 25.4% (MAP)  |
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
  - [Papers Deep Learning for Recommender System](http://shuaizhang.tech/2017/03/13/Papers-Deep-Learning-for-Recommender-System/)
  
-## 機械学習用のNotePC
+## 深層学習用のNotePC
  - [DELL Alienware](http://www.dell.com/jp/business/p/laptops#!dlpgid=alienware-laptops?~ck=bt)
       - GeForce GTX 1060/1070搭載 NEW ALIENWARE 17
       - GeForce GTX 1060/1070搭載 NEW ALIENWARE 15     
@@ -271,7 +271,7 @@ model | 25.4% (MAP)  |
       - OMEN HP17-an000 GeForce GTX 1070
       - OMEN X HP17 GeForce GTX 1080
  
-## GPUカードの深層学習計算時間の性能比較
+## GPUカードの深層学習の性能比較
 
  - [Benchmark Report from HPC Systems](http://www.hpc.co.jp/benchmark20160610.html)
       - GPU card: NVIDIA® GeForce® GTX 1080
