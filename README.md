@@ -253,4 +253,7 @@ model | 25.4% (MAP)  |
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
  - [Papers Deep Learning for Recommender System](http://shuaizhang.tech/2017/03/13/Papers-Deep-Learning-for-Recommender-System/)
+ 
+## 機械学習用のNotePC
+ - [DELL Alienware](http://www.dell.com/jp/business/p/laptops#!dlpgid=alienware-laptops?~ck=bt)
      
