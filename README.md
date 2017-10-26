@@ -139,6 +139,23 @@ JVM
 - ILSVRC'15 = ResNet (:us:Microsoft Research Asia)  = 152 layers
 - [アーキテクチャ精度解説資料](http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice201705cvcomp.pdf) = 画像解析関連コンペティションの潮流 中山英樹 信学会 100:373,2017
 
+## Autoencoder
+
+- [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)　解説
+     - What are autoencoders?
+     - Are they good at data compression?
+     - What are autoencoders good for?
+        -  data denoising 
+        -  dimensionality reduction
+     - So what's the big deal with autoencoders?
+     - Let's build the simplest possible autoencoder
+     - Adding a sparsity constraint on the encoded representations
+     - ___Deep autoencoder___
+     - ___Convolutional autoencoder___
+     - Application to image denoising
+     - ___Sequence-to-sequence autoencoder___
+     - ___Variational autoencoder (VAE)___
+
 ## DNN文献リスト(from PubMed, etc.)
 - [Deep Patient](https://www.ncbi.nlm.nih.gov/pubmed/27185194)
     - electronic health records (EHRs)から、患者の将来のDisease Riskを予測(AUC=0.773)
