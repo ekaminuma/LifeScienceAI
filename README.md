@@ -227,7 +227,7 @@ model | 25.4% (MAP)  |
 
 ## 大規模データセット
 情報科学
-- ImageNet
+- [ImageNet](https://www.image-net.org/) (:us:Princeton Univ)
 - Microsoft [COCO dataset](http://cocodataset.org/) - 330K images (>200K labeled), 1.5M object instances, 80 object categories
 - ISI dataset
        - 11 subjects perform seven actions related to an insulin selfinjection activity. 
@@ -248,7 +248,7 @@ model | 25.4% (MAP)  |
      
 ## Major Competitions
 情報科学
- - [ILSVRC](www.image-net.org/challenges/LSVRC/): ImageNet Large Scale Visual Recognition Competition
+ - [ILSVRC](https://www.image-net.org/challenges/LSVRC/): ImageNet Large Scale Visual Recognition Competition
  - ImageCLEF
       - ImageCLEFcaption
       - ImageCLEFlifelog
