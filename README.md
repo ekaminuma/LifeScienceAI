@@ -187,31 +187,31 @@ JVM
 
 ## Plant Cultivar Classification
 
-| PMID  | YEAR  | Classification Target   | Input Data  | Models |  Performance |
+| CITATION  | YEAR  | Classification Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|
-| 28857245  | 2017   |  16 European faba bean cultivars | 20 root traits  | k-NN  | 84.5% (Accuracy)  |  
-| 27999587   | 2016   | 16 European Pisum sativum (pea) cultivars  | 36 root traits  | SVM,RF  | 86% of pairs (Accuracy)  |  
-| 26669182  | 2015   | 4 pommelo cultivars   | leaf hyperspectral images  | BPNN,LS-SVM  | 97.92% (Accuracy)  |  
-| 23857260  | 2013   | 4 rice cultivars   | seed hyperspectral images  | SVM,RF,PLSDA  | 80% (Accuracy)  |  
-| 22957050  | 2012   | 10 olive cultivars   | RAPD,ISSR markers | SVM,NB,RF  | 70% (Accuracy) |   
+| PMID:28857245  | 2017   |  16 European faba bean cultivars | 20 root traits  | k-NN  | 84.5% (Accuracy)  |  
+| PMID:27999587   | 2016   | 16 European Pisum sativum (pea) cultivars  | 36 root traits  | SVM,RF  | 86% of pairs (Accuracy)  |  
+| PMID:26669182  | 2015   | 4 pommelo cultivars   | leaf hyperspectral images  | BPNN,LS-SVM  | 97.92% (Accuracy)  |  
+| PMID:23857260  | 2013   | 4 rice cultivars   | seed hyperspectral images  | SVM,RF,PLSDA  | 80% (Accuracy)  |  
+| PMID:22957050  | 2012   | 10 olive cultivars   | RAPD,ISSR markers | SVM,NB,RF  | 70% (Accuracy) |   
 
 ## Plant Trait Prediction
 
-| PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
+| CITATION  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
-|  28585253    | 2017 | Bean | canned black bean texture | Hyper spectral images |PLSR | |
-| 28574705  | 2017   | Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
-| 28857245  | 2017   | Faba Bean  | North/South, KSC | Root Traits| RF, k-NN  | 84.5% (Accuracy)  |  
-|  28386178  | 2017 | Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
-| 28405214 |2016|Soybean |  Plant stress severity rating | RGB Image | classification trees| 96% (Accuracy)  |  
+| PMID:28585253    | 2017 | Bean | canned black bean texture | Hyper spectral images |PLSR | |
+| PMID:28574705  | 2017   | Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
+| PMID:28857245  | 2017   | Faba Bean  | North/South, KSC | Root Traits| RF, k-NN  | 84.5% (Accuracy)  |  
+| PMID:28386178  | 2017 | Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
+| PMID:28405214 |2016|Soybean |  Plant stress severity rating | RGB Image | classification trees| 96% (Accuracy)  |  
 
 
 ## Plant Disease Prediction
 
-| PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
+| CITATION  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
-| 28757863   | 2017   | Apple  |  disease severity classification  | apple leaf black rot images in PlantVillage dataset  | CNN-VGG16 | 90.4% (Accuracy)  |  
-| 28574705  | 2017   | Rice  | rice blast disease  | 6 weather variables   | BPNN | 65.42% (Accuracy)  |  
+| PMID:28757863   | 2017   | Apple  |  disease severity classification  | apple leaf black rot images in PlantVillage dataset  | CNN-VGG16 | 90.4% (Accuracy)  |  
+| PMID:28574705  | 2017   | Rice  | rice blast disease  | 6 weather variables   | BPNN | 65.42% (Accuracy)  |  
 
 ## Plant Seed Classification
 
@@ -229,7 +229,7 @@ JVM
 
 | CITATION  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
-| PMID: 26139889| 2015   |  rice, wheat, maize, castor bean and thale cress| protein contents| seed AA protein sequences   | SVM | 91.3% (Accuracy)  | 
+| PMID:26139889| 2015   |  rice, wheat, maize, castor bean and thale cress| protein contents| seed AA protein sequences   | SVM | 91.3% (Accuracy)  | 
 
 ## Bacterial Classification
 
@@ -242,20 +242,20 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 ## Host Prediction
 
-| PMID  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
+| CITATION  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
-| 28361670  | 2017   | Bacteria  | 9 bacterial host genera  | 45 infectious viruses  | LR.SVM,RF | 85% (AUC)  |  
+| PMID:28361670  | 2017   | Bacteria  | 9 bacterial host genera  | 45 infectious viruses  | LR.SVM,RF | 85% (AUC)  |  
 
 ## Others
 
-| PMID  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
+| CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | arxiv.1704.03152 |2017 ｜CorrRNN (temporal model for temporal data) |  
-| 26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
-| 26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
+| PMID:26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
+| PMID:26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
 | arxiv.1703.08970 | 2017   | EEG+EMG  | 4 labels  | EEG signals + EMG signals  | MM-CNN | 78.1% (Accuracy)   |
-| 26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
-| 26950929   | 2014   |  |   | images | deep Boltzmann machine (DBM)-based27 multimodal learning
+| PMID:26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
+| PMID:26950929   | 2014   |  |   | images | deep Boltzmann machine (DBM)-based27 multimodal learning
 model | 25.4% (MAP)  | 
 
 ## 大規模データセット
