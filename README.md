@@ -319,7 +319,7 @@ model | 25.4% (MAP)  |
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
  - [Papers Deep Learning for Recommender System](http://shuaizhang.tech/2017/03/13/Papers-Deep-Learning-for-Recommender-System/)
- 
+  
 ## 深層学習用のNotePC
  - [DELL Alienware](http://www.dell.com/jp/business/p/laptops#!dlpgid=alienware-laptops?~ck=bt)
       - GeForce GTX 1060/1070搭載 NEW ALIENWARE 17
@@ -336,3 +336,5 @@ model | 25.4% (MAP)  |
       - GPU card: NVIDIA® GeForce® GTX 1080
       - CNN Architectures: GoogLeNet and AlexNet 
  
+## Deep Learning Cloud Platform
+  - [FloydHub](https://www.floydhub.com/) : Deep Learningを対象としたPlatform-as-a-Service(PAAS) Cloudサービス.
