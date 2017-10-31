@@ -178,6 +178,14 @@ JVM
      - DextMP: deep dive into text for predicting moonlighting proteins.
      - DeepCNF: AUC-Maximized Deep Convolutional Neural Fields for Protein Sequence Labeling
 
+## Plant Species Prediction
+
+- PlantCLEF
+- [Deep Fruit Detection in Orchards](https://arxiv.org/pdf/1610.03677.pdf) 
+      - 1120 Apples, 1964 mangoes, 620 Almonds
+      - F1 score(Apple,Mango,Almond=0.904,0.908,0.775)
+      - [Dataset Examples](http://data.acfr.usyd.edu.au/ag/treecrops/2016-multifruit/)
+
 ## Plant Cultivar Classification
 
 | PMID  | YEAR  | Classification Target   | Input Data  | Models |  Performance |
@@ -223,6 +231,7 @@ JVM
 | CITATION  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
 | PMID: 26139889| 2015   |  rice, wheat, maize, castor bean and thale cress| protein contents| seed AA protein sequences   | SVM | 91.3% (Accuracy)  | 
+
 
 
 ## Host Prediction
