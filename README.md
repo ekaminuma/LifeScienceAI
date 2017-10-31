@@ -182,9 +182,9 @@ JVM
 
 - PlantCLEF
 - [Deep Fruit Detection in Orchards](https://arxiv.org/pdf/1610.03677.pdf) 
-      - 1120 Apples, 1964 mangoes, 620 Almonds
-      - F1 score(Apple,Mango,Almond=0.904,0.908,0.775)
-      - [Dataset Examples](http://data.acfr.usyd.edu.au/ag/treecrops/2016-multifruit/)
+     - 1120 Apples, 1964 mangoes, 620 Almonds
+     - F1-score (Apple,Mango,Almond=0.904,0.908,0.775)
+     - [Dataset Examples](http://data.acfr.usyd.edu.au/ag/treecrops/2016-multifruit/)
 
 ## Plant Cultivar Classification
 
