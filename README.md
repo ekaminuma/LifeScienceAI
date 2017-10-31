@@ -166,8 +166,6 @@ JVM
 - 病理組織分類
   - 2017 横紋筋肉腫の病理組織学的サブタイプ分類, 転移学習, Multimodal(拡散強調MRスキャン（DWI）とガドリニウムキレート強化T1強調MRスキャン（MRI）の融合)
   - 2017 [腎臓のsegmentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435691/)
-- 微生物分類
-  - Deep learning approach to bacterial colony classification. DIBaS dataset ( 660 images with 33 different genera and species of bacteria.)
 - 植物葉分類
   - Automated classification of tropical shrub species: a hybrid of leaf shape and machine learning approach.
      - myDAUN dataset. 98.23%
@@ -232,7 +230,15 @@ JVM
 |---|---|---|---|---|---|---|
 | PMID: 26139889| 2015   |  rice, wheat, maize, castor bean and thale cress| protein contents| seed AA protein sequences   | SVM | 91.3% (Accuracy)  | 
 
+## Bacterial Classification
 
+CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Performance |
+|---|---|---|---|---|---|---|
+| PMID: 28910352  | 2017   | DIBaS dataset | species | bacterial colony images   | SVN | 97.2(Accuracy)  | 
+| PMID: 27814364 | 2016   | Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments.|  multiple cell types  | microscope live cell image(fluorescence,phase,DIC)  |  Conv-net | 0.89(Jaccard Index) | 
+| BCB15,978-1-4503-3853-0 | 2015   | | segmenting to bacterial colonies, agar, plate, artefacts | bacterial colony images   |  Convolutional Deep Belief Network (CDBN) |  unsupervised leraning| 
+
+  - Deep learning approach to bacterial colony classification. DIBaS dataset ( 660 images with 33 different genera and species of bacteria.)
 
 ## Host Prediction
 
