@@ -238,7 +238,6 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 | PMID: 27814364 | 2016   | Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments.|  multiple cell types  | microscope live cell image(fluorescence,phase,DIC)  |  Conv-net | 0.89(Jaccard Index) | 
 | BCB15,978-1-4503-3853-0 | 2015   | | segmenting to bacterial colonies, agar, plate, artefacts | bacterial colony images   |  Convolutional Deep Belief Network (CDBN) |  unsupervised leraning| 
 
-  - Deep learning approach to bacterial colony classification. DIBaS dataset ( 660 images with 33 different genera and species of bacteria.)
 
 ## Host Prediction
 
@@ -278,6 +277,10 @@ model | 25.4% (MAP)  |
 -  [Temple University Hospital (TUH) EEG Corpus](https://www.isip.piconepress.com/projects/tuh_eeg/html/overview.shtml)
      -  ver13 :  over 25,000 sessions and 15,000 patients collected over 12 years 
      -  20MB of raw data, European Data Format (EDF+) file schema
+- [DiBaS Dataset](http://misztal.edu.pl/software/databases/dibas/)
+     -  Bacterial colony classification.
+     -  660 images with 33 different genera and species of bacteria.
+
      
 ## Major Competitions
 情報科学
