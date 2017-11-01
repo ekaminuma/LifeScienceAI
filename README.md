@@ -170,7 +170,13 @@ JVM
      - Conditional GAN　- pix2pix (2016.11)
      - [Stack GAN](https://arxiv.org/abs/1612.03242) (2016.12) : 2階層(StageI,II)のGANモデル
      - [GANまとめ](https://qiita.com/eve_yk/items/f4b274da7042cba1ba76)
-　- [CycleGAN](https://github.com/junyanz/CycleGAN) (UC barkley) : unpaired training data
+　
+ - DCGAN(Deep Convolutional Generative Adversarial Networks) 
+     - GANにCNNを適用
+     - [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow) 
+     - [日本語解説](https://qiita.com/shu223/items/b6d8dc1fccb7c0f68b6b)
+     
+ - [CycleGAN](https://github.com/junyanz/CycleGAN) (UC barkley) : unpaired training data
      - demo images : from apple to orange (fruit box, fruits in trees)
      - demo images : from orange to apple
  - [pix2pix](https://phillipi.github.io/pix2pix/)
