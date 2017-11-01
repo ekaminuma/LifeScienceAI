@@ -341,10 +341,7 @@ model | 25.4% (MAP)  |
   - [FloydHub](https://www.floydhub.com/) : Deep Learningを対象としたPlatform-as-a-Service(PAAS) Cloudサービス.
   
 ## AI Patent
-　- 著作権
-      - 学習用プログラムのコード→著作権法2条10号の2「プログラムの著作物」
-      - アルゴリズム→特許法2条3項1号の「物の発明」
-      
+　
   - [数の米国、攻める中国　AI特許6万件を解剖](https://vdata.nikkei.com/newsgraphics/ai-patent/) by 日経新聞2017.2.1
        - 世界のAI特許、2010年と比べ７割増
        - 米国1.26倍, 中国2.9倍, 日本3%減
@@ -362,5 +359,9 @@ model | 25.4% (MAP)  |
        - 電子フロンティア財団が毎月発表している「[Stupid Patent of the Month](https://www.eff.org/ja/taxonomy/term/11344)」
        - 食物に含まれる含有物を発見する特許
   - [第四次産業革命の中で知財システムに何が起きているか](http://www.meti.go.jp/committee/kenkyukai/sansei/daiyoji_sangyo_chizai/pdf/001_02_00.pdf) by 経済産業省2016.10
+  - AI成果物の著作権
+      - 学習用プログラムのコード:著作権法2条10号の2「プログラムの著作物」
+      - アルゴリズム:特許法2条3項1号の「物の発明」
+            
        
   
