@@ -163,9 +163,21 @@ JVM
      - ___Variational autoencoder (VAE)___
 
 ## 画像変換手法
+ - [Generative Adversarial Networks (GAN)](https://deephunt.in/the-gan-zoo-79597dc8c347) 
+     - a branch of unsupervised learning
+     - [Generative Models overview](https://blog.openai.com/generative-models/) by OpenAI 2016.6 
+     - [GAN overview](https://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html) by KDNuggets 2017.1
+     - Conditional GAN　- pix2pix (2016.11)
+     - [Stack GAN](https://arxiv.org/abs/1612.03242) (2016.12) : 2階層(StageI,II)のGANモデル
+     - [GANまとめ](https://qiita.com/eve_yk/items/f4b274da7042cba1ba76)
 　- [CycleGAN](https://github.com/junyanz/CycleGAN) (UC barkley) : unpaired training data
      - demo images : from apple to orange (fruit box, fruits in trees)
      - demo images : from orange to apple
+ - [pix2pix](https://phillipi.github.io/pix2pix/)
+      - [pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)
+      - [pix2pix-keras](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix)
+      - [chainer-pix2pix](https://github.com/mattya/chainer-pix2pix)
+ 
      
 ## DNN文献リスト(from PubMed, etc.)
 - [Deep Patient](https://www.ncbi.nlm.nih.gov/pubmed/27185194)
@@ -278,6 +290,7 @@ model | 25.4% (MAP)  |
        - The dataset includes egocentric video data acquired using a Google Glass wearable camera, and motion data acquired using an Invensense motion wrist sensor.
 - CMU-MOSI: Multimodal Opinion Sentiment Intensity 
         - video opinions from youtube movie reviews
+- [CMP facade dataset](http://cmp.felk.cvut.cz/~tylecr1/facade/)        
 
 ライフサイエンス
 - [ANDI:The Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) 
