@@ -131,13 +131,19 @@ Lua
 JVM
 - DL4J
 
-## CNN Architectures
+## NN Model Architecture
+# CNN Architectures
 
 - ILSVRC'12 = [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (:canada: Univ of Tronto, Prof. Hinton) = 8 layers
 - ILSVRC'14 = [VGG](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) (:uk:Univ of Oxford, VGG Group) = 19 layers
 - ILSVRC'14 = GoogLeNet (:us:Google)      = 22 layers
 - ILSVRC'15 = ResNet (:us:Microsoft Research Asia)  = 152 layers
 - [アーキテクチャ精度解説資料](http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice201705cvcomp.pdf) = 画像解析関連コンペティションの潮流 中山英樹 信学会 100:373,2017
+
+# Other NN Architectures
+- [Recursive Cortical Network (RCN)](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)
+
+
 
 ## Autoencoder
 
