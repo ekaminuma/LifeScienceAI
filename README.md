@@ -358,7 +358,7 @@ model | 25.4% (MAP)  |
        - 誰が著作者、発明者にあたるか
   - [AI特許の権利化での注意点](http://knpt.com/contents/ai/ai_consulting.html)
   - [ハイテク食品メーカーHampton CreekのAI特許問題](http://gigazine.net/news/20171002-stupid-patent/)
-       - 電子フロンティア財団が毎月発表している「Stupid Patent of the Month」(
+       - 電子フロンティア財団が毎月発表している「[Stupid Patent of the Month](https://www.eff.org/ja/taxonomy/term/11344)」
        - 食物に含まれる含有物を発見する特許
        
        
