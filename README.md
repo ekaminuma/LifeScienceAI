@@ -131,7 +131,7 @@ Lua
 JVM
 - DL4J
 
-## NN Model Architecture
+## ML Model Architecture
 ### CNN Architectures
 
 - ILSVRC'12 = [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (:canada: Univ of Tronto, Prof. Hinton) = 8 layers
