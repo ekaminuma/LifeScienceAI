@@ -162,6 +162,11 @@ JVM
      - ___Sequence-to-sequence autoencoder___
      - ___Variational autoencoder (VAE)___
 
+## 画像変換手法
+　- [CycleGAN](https://github.com/junyanz/CycleGAN) (UC barkley) : unpaired training data
+     - demo images : from apple to orange (fruit box, fruits in trees)
+     - demo images : from orange to apple
+     
 ## DNN文献リスト(from PubMed, etc.)
 - [Deep Patient](https://www.ncbi.nlm.nih.gov/pubmed/27185194)
     - electronic health records (EHRs)から、患者の将来のDisease Riskを予測(AUC=0.773)
