@@ -339,3 +339,27 @@ model | 25.4% (MAP)  |
  
 ## Deep Learning Cloud Platform
   - [FloydHub](https://www.floydhub.com/) : Deep Learningを対象としたPlatform-as-a-Service(PAAS) Cloudサービス.
+  
+## AI Patent
+　　- 著作権
+  　　   - 学習用プログラムのコード = 著作権法2条10号の2「プログラムの著作物」
+       - アルゴリズム = 特許法2条3項1号の「物の発明」
+  - [数の米国、攻める中国　AI特許6万件を解剖] by 日経新聞2017.2.1
+       - 世界のAI特許、2010年と比べ７割増
+       - 米国1.26倍, 中国2.9倍, 日本3%減
+       -　出願数トップ3 
+           - 米国=IBM:3049,Microsoft:1866,Google:979
+           - 中国=中国国家電網公司:757,北京大学:442,南京大学:385
+           - 日本=NTT:567,NEC:541,日立:420)
+  - [AIビジネスにおける特許戦略](https://business.bengo4.com/category5/article153)
+       - 学習用プログラムの法的保護
+       - 学習済みモデルと法的保護
+       - 蒸留モデル
+       - 誰が著作者、発明者にあたるか
+  - [AI特許の権利化での注意点](http://knpt.com/contents/ai/ai_consulting.html)
+  - [ハイテク食品メーカーHampton CreekのAI特許問題](http://gigazine.net/news/20171002-stupid-patent/)
+       - 電子フロンティア財団が毎月発表している「Stupid Patent of the Month」(
+       - 食物に含まれる含有物を発見する特許
+       
+       
+  
