@@ -360,6 +360,6 @@ model | 25.4% (MAP)  |
   - [ハイテク食品メーカーHampton CreekのAI特許問題](http://gigazine.net/news/20171002-stupid-patent/)
        - 電子フロンティア財団が毎月発表している「[Stupid Patent of the Month](https://www.eff.org/ja/taxonomy/term/11344)」
        - 食物に含まれる含有物を発見する特許
-       
+  - [第四次産業革命の中で知財システムに何が起きているか](http://www.meti.go.jp/committee/kenkyukai/sansei/daiyoji_sangyo_chizai/pdf/001_02_00.pdf) by 経済産業省2016.10
        
   
