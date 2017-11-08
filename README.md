@@ -360,7 +360,13 @@ model | 25.4% (MAP)  |
       - OMEN HP17-an000 GeForce GTX 1060
       - OMEN HP17-an000 GeForce GTX 1070
       - OMEN X HP17 GeForce GTX 1080
- 
+
+## AI Chip
+- NVIDIA 
+- Intel : Loihi : 128 cores, 1024 neurons
+- Apple :  Neural Engine : iphoneX  
+- IBM : TrueNorth : 4096 cores, 100万neurons, 2億5600万個synapses
+
 ## GPUカードの深層学習の性能比較
 
  - [Benchmark Report from HPC Systems](http://www.hpc.co.jp/benchmark20160610.html)
