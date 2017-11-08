@@ -339,6 +339,8 @@ model | 25.4% (MAP)  |
 ## Webサービス
 - [WebDNN](https://mil-tokyo.github.io/webdnn/ja/) (東大原田・牛久研究室)
 -　[Google Teachable Machine](https://teachablemachine.withgoogle.com/) Google提供。PCカメラで深層学習のデモが出来る。
+- [Sony Neural Network Console - Cloud](https://dl.sony.com/ja/cloud/)
+   　- 無料はファイル容量 10GB、使用可能時間 10H、プロジェクト数 10Pまで。
 
 ## Google(Tensorflow/etc) 
 - [Deeplarningjs.org](https://deeplearnjs.org/demos/) web-based machine learning(WebGL)
