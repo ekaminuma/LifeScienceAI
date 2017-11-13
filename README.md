@@ -357,6 +357,8 @@ model | 25.4% (MAP)  |
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
  - [Papers Deep Learning for Recommender System](http://shuaizhang.tech/2017/03/13/Papers-Deep-Learning-for-Recommender-System/)
  - ["Deep Learning" AND Plant ](https://www.readbyqxmd.com/keyword/162049)
+ - [deeplearning-biology](https://github.com/hussius/deeplearning-biology)
+ - [List of deep learning implementations in biology](https://followthedata.wordpress.com/2015/12/21/list-of-deep-learning-implementations-in-biology/)
   
 ## 深層学習用のNotePC
  - [DELL Alienware](http://www.dell.com/jp/business/p/laptops#!dlpgid=alienware-laptops?~ck=bt)
