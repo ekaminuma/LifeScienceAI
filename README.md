@@ -279,6 +279,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
+| arxiv.1612.02572 |2016 ｜ | brain age | brain MRI image | CNN-GM | 4.16(MAE years)|   
 | arxiv.1704.03152 |2017 ｜CorrRNN (temporal model for temporal data) |  
 | PMID:26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
 | PMID:26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
