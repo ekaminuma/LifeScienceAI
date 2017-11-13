@@ -350,6 +350,7 @@ model | 25.4% (MAP)  |
 - [MultiModel: Multi-Task Machine Learning Across Domains by Google Research Blog, June 2017](https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)
 
 ## Link多数掲載のまとめサイト
+ - [Biological datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#Biological_data) 
  - [NVIDIAのDNNフレームワークリスト](https://developer.nvidia.com/deep-learning-frameworks)
  - [PocketCluster](https://blog.pocketcluster.io/page/6/) 
  - [Papers Deep Learning for Recommender System](http://shuaizhang.tech/2017/03/13/Papers-Deep-Learning-for-Recommender-System/)
