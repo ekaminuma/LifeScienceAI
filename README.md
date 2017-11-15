@@ -323,6 +323,8 @@ model | 25.4% (MAP)  |
 - [DiBaS Dataset](http://misztal.edu.pl/software/databases/dibas/)
      -  Bacterial colony classification.
      -  660 images with 33 different genera and species of bacteria.
+- [IPPN Plant Phenotyping dataset](https://www.plant-phenotyping.org/datasets-home)
+- [ACID Wheat spikes and spikelets dataset](https://github.com/mikepound/wheat-hg)
 
      
 ## Major Competitions
@@ -347,6 +349,8 @@ model | 25.4% (MAP)  |
       - GeoLifeCLEF
       - ExperLifeCLEF
 
+### Conference/Workshop
+- [COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP)](https://www.plant-phenotyping.org/CVPPP2017)
  
 ## Webサービス
 - [WebDNN](https://mil-tokyo.github.io/webdnn/ja/) (東大原田・牛久研究室)
