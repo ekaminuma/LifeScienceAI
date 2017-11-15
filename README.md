@@ -183,8 +183,13 @@ JVM
       - [pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)
       - [pix2pix-keras](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix)
       - [chainer-pix2pix](https://github.com/mattya/chainer-pix2pix)
- 
-     
+
+## 植物分野ツール
+- [Deep Plant Phenomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5500639/) Open Source Platform for Plant Phenotyping
+      - leaf counting
+      - mutant classification
+      - age regression for top-down images of plant rosettes
+    
 ## DNN文献リスト(from PubMed, etc.)
 - [Deep Patient](https://www.ncbi.nlm.nih.gov/pubmed/27185194)
     - electronic health records (EHRs)から、患者の将来のDisease Riskを予測(AUC=0.773)
@@ -195,6 +200,7 @@ JVM
 - 病理組織分類
   - 2017 横紋筋肉腫の病理組織学的サブタイプ分類, 転移学習, Multimodal(拡散強調MRスキャン（DWI）とガドリニウムキレート強化T1強調MRスキャン（MRI）の融合)
   - 2017 [腎臓のsegmentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435691/)
+- [Deep-Learning-Based Approach for Prediction of Algal Blooms](http://www.mdpi.com/2071-1050/8/10/1060)
 - 植物葉分類
   - Automated classification of tropical shrub species: a hybrid of leaf shape and machine learning approach.
      - myDAUN dataset. 98.23%
@@ -289,6 +295,9 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 | PMID:26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
 | PMID:26950929   | 2014   |  |   | images | deep Boltzmann machine (DBM)-based27 multimodal learning
 model | 25.4% (MAP)  | 
+
+### REVIEW PAPER
+- [Machine Learning for High-Throughput Stress Phenotyping in Plants](http://www.sciencedirect.com/science/article/pii/S1360138515002630)
 
 ## 大規模データセット
 情報科学
