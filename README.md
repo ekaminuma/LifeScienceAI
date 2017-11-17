@@ -314,22 +314,22 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 ライフサイエンス
 - [Kvasir dataset](http://datasets.simula.no/kvasir/) 
-       - Endoscopic images
-       - Kvasir dataset v1 : 4,000 images, 8 classes (500 per class), JPEG
-       - Kvasir dataset v2 : 8,000 images, 8 classes, (1,000 per class), JPEG
-       - collected using endoscopic equipment at Vestre Viken Health Trust (VV) in Norway
-       - The VV consists of 4 hospitals and provides health care to 470.000 people. 
-       - annotated and verified by medical doctors (experienced endoscopists)
-       -  images with different resolution from 720x576 up to 1920x1072 pixels
+      - Endoscopic images
+      - Kvasir dataset v1 : 4,000 images, 8 classes (500 per class), JPEG
+      - Kvasir dataset v2 : 8,000 images, 8 classes, (1,000 per class), JPEG
+      - collected using endoscopic equipment at Vestre Viken Health Trust (VV) in Norway
+      - The VV consists of 4 hospitals and provides health care to 470.000 people. 
+      - annotated and verified by medical doctors (experienced endoscopists)
+      -  images with different resolution from 720x576 up to 1920x1072 pixels
 - [LIDC-IDRI dataset](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#57a090df52b042cc99990ded8c89cbb8)   
-       - Lung Cancer 
-       - 1018 CT, 290 CR/DX
-       - 244,527 images
-       - Lung Image Database Consortium
-       - marked lesions belonging to one of three categories ("nodule > or =3 mm," "nodule <3 mm," and "non-nodule > or =3 mm"). 
+      - Lung Cancer 
+      - 1018 CT, 290 CR/DX
+      - 244,527 images
+      - Lung Image Database Consortium
+      - marked lesions belonging to one of three categories ("nodule > or =3 mm," "nodule <3 mm," and "non-nodule > or =3 mm"). 
 - [ANDI:The Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) 
-       - 818 ADNI participants (at the time, 128 with AD, 415 with MCI, 267 controls and 8 of uncertain diagnosis)
-       - Illumina Omni 2.5M genome-wide association study (GWAS) single nucleotide polymorphism (SNP) arrays
+      - 818 ADNI participants (at the time, 128 with AD, 415 with MCI, 267 controls and 8 of uncertain diagnosis)
+      - Illumina Omni 2.5M genome-wide association study (GWAS) single nucleotide polymorphism (SNP) arrays
 -  [CADDementia](https://caddementia.grand-challenge.org/) 
       - Computer-Aided Diagnosis of Dementia based on structural MRI data.
       - data collected from three different sites, total 384  MRI scans 
