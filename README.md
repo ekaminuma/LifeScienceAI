@@ -290,7 +290,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 | PMID： 29086034  | 2017.10| Kvasir dataset | |Endoscopic images 内視鏡画像 | CNN-AlexNet  |  | 
 | PMID： 29083930 | 2017.10|  | Osteosarcoma 骨肉腫 |Histopathological images 病理組織画像 | VGG, AlexNet| 92% | 
 | PMID: 29082086 | 2017.10| | cochlear endolymphatic hydrops 蝸牛内リンパ水腫 | OCT images | VGG16-based 16 layers CNN [:link:](https://github.com/jso111/ELHnet/tree/master/elhnet) | 96.5(AUC)| 
-| PMID: 29065651 | 2017.9| LIDC-IDRI dataset | Lung Cancer | CT images | CNN-Original 5 layers | 84.15(Accuracy)| 
+| PMID: 29065651 | 2017.9| LIDC-IDRI dataset | Lung Cancer | CT images | CNN-Original 5 layers | 84.15%(Accuracy)| 
 | arxiv.1612.02572 |2016 ｜ | | brain age | brain MRI image | CNN-GM | 4.16(MAE years)|   
 | arxiv.1704.03152 |2017 ｜||  | |CorrRNN (temporal model for temporal data) | |  
 | PMID:26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
@@ -300,9 +300,13 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 ## DNA Sequence Domain 
 
-| CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
-|---|---|---|---|---|---|---|
-| PMID： 28158264 | 2017.2| [CNNProm](http://www.softberry.com) | Promotor Detection | Hs/Mm/At  251 nt TATA and non-TATA, Ec and Bs 81 nt promoter and non-promoter | CNN-AlexNet  |  | 
+| CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance | Baseline |
+|---|---|---|---|---|---|---|---|
+|  arXiv:1608.03644  |2017.1 | [DeepMotif](https://qdata.github.io/deep4biomed-web//Genome-DeepMotif/),108 K562 cell ENCODE ChIP-Seq TF datasets | TFBS classification | 101 nt sequence (hg19)|CNN,RNN(LSTM),CNN+RNN, Org_1-4 layers| 92.5%(AUC) for Med CNN-RNN | MEME-ChIP2|
+|PMID: 29069344 | 2017.10| [DEEPre](http://www.cbrc.kaust.edu.sa/DEEPre/) | EC number prediction | 50AA--5000AA | CNN_orig | |  | 
+|PMID: 29069282  | 2017.10| [Deopen](https://github.com/kimmo1019/Deopen) | Chromatin accessibility prediction|  |CNN_org+BP|  || 
+| PMID： 28158264 | 2017.2| [CNNProm](http://www.softberry.com) | Promotor Detection | Hs/Mm/At  251 nt TATA and non-TATA, Ec and Bs 81 nt promoter and non-promoter | CNN-Original 2-3 layers  | 0.95(Sn)	0.98(Sp) for Hs TATA | |
+| PMID： 28158264 | 2016.9| [DeepChrom](http://www.deepchrome.org),REMC database | predicting gene expression | histone modifications | CNN-Original 2-3 layers  |  | |
 
 ### REVIEW PAPER
 - [Machine Learning for High-Throughput Stress Phenotyping in Plants](http://www.sciencedirect.com/science/article/pii/S1360138515002630)
@@ -347,7 +351,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
      -  660 images with 33 different genera and species of bacteria.
 - [IPPN Plant Phenotyping dataset](https://www.plant-phenotyping.org/datasets-home)
 - [ACID Wheat spikes and spikelets dataset](https://github.com/mikepound/wheat-hg)
-
+- [REMC database]
      
 ## Major Competitions
 情報科学
