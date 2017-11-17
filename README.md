@@ -287,17 +287,16 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
-| PMID： 29086034  | 2017.10| || |Endoscopic images | CNN-AlexNet [:link:](https://github.com/jso111/ELHnet/tree/master/elhnet)  |  | 
-| PMID： 29083930 | 2017.10| | ||Endoscopic images | VGG, AlexNet| | 
+| PMID： 29086034  | 2017.10| Kvasir dataset | |Endoscopic images | CNN-AlexNet [:link:](https://github.com/jso111/ELHnet/tree/master/elhnet)  |  | 
+| PMID： 29083930 | 2017.10|  ||Endoscopic images | VGG, AlexNet| | 
 | PMID： 29083930 | 2017.10| | | OCT images | VGG16,scratch| | 
-| arxiv.1612.02572 |2016 ｜ | brain age | brain MRI image | CNN-GM | 4.16(MAE years)|   
-| arxiv.1704.03152 |2017 ｜|||CorrRNN (temporal model for temporal data) | |  
+| PMID: 29065651 | 2017.9| LIDC-IDRI dataset | Lung Cancer | CT images | VGG16,scratch| 84.15(Accuracy)| 
+| arxiv.1612.02572 |2016 ｜ | | brain age | brain MRI image | CNN-GM | 4.16(MAE years)|   
+| arxiv.1704.03152 |2017 ｜||  | |CorrRNN (temporal model for temporal data) | |  
 | PMID:26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
 | PMID:26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
 | arxiv.1703.08970 | 2017   | EEG+EMG  | 4 labels  | EEG signals + EMG signals  | MM-CNN | 78.1% (Accuracy)   |
 | PMID:26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
-| PMID:26950929   | 2014   |  |   | images | deep Boltzmann machine (DBM)-based27 multimodal learning
-model | 25.4% (MAP)  | 
 
 ### REVIEW PAPER
 - [Machine Learning for High-Throughput Stress Phenotyping in Plants](http://www.sciencedirect.com/science/article/pii/S1360138515002630)
@@ -322,6 +321,12 @@ model | 25.4% (MAP)  |
        - The VV consists of 4 hospitals and provides health care to 470.000 people. 
        - annotated and verified by medical doctors (experienced endoscopists)
        -  images with different resolution from 720x576 up to 1920x1072 pixels
+- [LIDC-IDRI dataset](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#57a090df52b042cc99990ded8c89cbb8)   
+       - Lung Cancer 
+       - 1018 CT, 290 CR/DX
+       - 244,527 images
+       - Lung Image Database Consortium
+       - marked lesions belonging to one of three categories ("nodule > or =3 mm," "nodule <3 mm," and "non-nodule > or =3 mm"). 
 - [ANDI:The Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) 
        - 818 ADNI participants (at the time, 128 with AD, 415 with MCI, 267 controls and 8 of uncertain diagnosis)
        - Illumina Omni 2.5M genome-wide association study (GWAS) single nucleotide polymorphism (SNP) arrays
