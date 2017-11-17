@@ -283,7 +283,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 |---|---|---|---|---|---|---|
 | PMID:28361670  | 2017   | Bacteria  | 9 bacterial host genera  | 45 infectious viruses  | LR.SVM,RF | 85% (AUC)  |  
 
-## Medical Domain (Image/Time Series Signal)
+## Medical Domain DNN (Image, Time Series)
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
