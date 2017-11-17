@@ -287,6 +287,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
+| PMID： 29086034 | 2017.10| |Endoscopic images | CNN-AlexNet| | 
 | arxiv.1612.02572 |2016 ｜ | brain age | brain MRI image | CNN-GM | 4.16(MAE years)|   
 | arxiv.1704.03152 |2017 ｜CorrRNN (temporal model for temporal data) |  
 | PMID:26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
@@ -311,6 +312,14 @@ model | 25.4% (MAP)  |
 - [CMP facade dataset](http://cmp.felk.cvut.cz/~tylecr1/facade/)        
 
 ライフサイエンス
+- [Kvasir dataset](http://datasets.simula.no/kvasir/) 
+       - Endoscopic images
+       - Kvasir dataset v1 : 4,000 images, 8 classes (500 per class), JPEG
+       - Kvasir dataset v2 : 8,000 images, 8 classes, (1,000 per class), JPEG
+       - collected using endoscopic equipment at Vestre Viken Health Trust (VV) in Norway
+       - The VV consists of 4 hospitals and provides health care to 470.000 people. 
+       - annotated and verified by medical doctors (experienced endoscopists)
+       -  images with different resolution from 720x576 up to 1920x1072 pixels
 - [ANDI:The Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) 
        - 818 ADNI participants (at the time, 128 with AD, 415 with MCI, 267 controls and 8 of uncertain diagnosis)
        - Illumina Omni 2.5M genome-wide association study (GWAS) single nucleotide polymorphism (SNP) arrays
