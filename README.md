@@ -287,9 +287,9 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
-| PMID： 29086034  | 2017.10| Kvasir dataset | |Endoscopic images | CNN-AlexNet [:link:](https://github.com/jso111/ELHnet/tree/master/elhnet)  |  | 
-| PMID： 29083930 | 2017.10|  ||Endoscopic images | VGG, AlexNet| | 
-| PMID： 29083930 | 2017.10| | | OCT images | VGG16,scratch| | 
+| PMID： 29086034  | 2017.10| Kvasir dataset | |Endoscopic images 内視鏡画像 | CNN-AlexNet  |  | 
+| PMID： 29083930 | 2017.10|  | Osteosarcoma 骨肉腫 |Histopathological images 病理組織画像 | VGG, AlexNet| 92% | 
+| PMID: 29082086 | 2017.10| | cochlear endolymphatic hydrops 蝸牛内リンパ水腫 | OCT images | VGG16-based 16 layers CNN [:link:](https://github.com/jso111/ELHnet/tree/master/elhnet) | 96.5(AUC)| 
 | PMID: 29065651 | 2017.9| LIDC-IDRI dataset | Lung Cancer | CT images | CNN-Original 5 layers | 84.15(Accuracy)| 
 | arxiv.1612.02572 |2016 ｜ | | brain age | brain MRI image | CNN-GM | 4.16(MAE years)|   
 | arxiv.1704.03152 |2017 ｜||  | |CorrRNN (temporal model for temporal data) | |  
