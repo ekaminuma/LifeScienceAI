@@ -318,7 +318,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 |PMID: 29069344 | 2017.10| [DEEPre](http://www.cbrc.kaust.edu.sa/DEEPre/) | EC number prediction | 50AA--5000AA | CNN_orig | |  | 
 |PMID: 29069282  | 2017.10| [Deopen](https://github.com/kimmo1019/Deopen) | Chromatin accessibility prediction|  |CNN_org+BP|  || 
 | PMID： 28158264 | 2017.2| [CNNProm](http://www.softberry.com) | Promotor Detection | Hs/Mm/At  251 nt TATA and non-TATA, Ec and Bs 81 nt promoter and non-promoter | CNN-Original 2-3 layers  | 0.95(Sn)	0.98(Sp) for Hs TATA | |
-| PMID： 28158264 | 2016.9| [DeepChrom](http://www.deepchrome.org),REMC database | predicting gene expression | histone modifications | CNN-Original 2-3 layers  |  | |
+| PMID： 28158264 | 2016.9| [DeepChrom](http://www.deepchrome.org),REMC database | predicting gene expression | histone modifications | CNN-Original 2-3 layers (:link:)[https://github.com/QData/DeepChrome] |  | |
 
 ## K-mer-based DNN
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance | Baseline |
@@ -368,7 +368,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
      -  660 images with 33 different genera and species of bacteria.
 - [IPPN Plant Phenotyping dataset](https://www.plant-phenotyping.org/datasets-home)
 - [ACID Wheat spikes and spikelets dataset](https://github.com/mikepound/wheat-hg)
-- [REMC database]
+- [REMC database](http://egg2.wustl.edu/roadmap/web_portal/processed_data.html#ChipSeq_DNaseSeq) Roadmap Epigenomics Project
      
 ## Major Competitions
 情報科学
