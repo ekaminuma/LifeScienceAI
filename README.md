@@ -333,7 +333,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 - [Ordinal versus One-Hot Encoding Method](https://www.biorxiv.org/content/biorxiv/early/2017/09/10/186965.full.pdf) 2017.9
     - DNA Sequenceの符号化法の差でのCNN精度を調査
     - 1D ~ 3Layer ~ Onehot ~ Square ~ Basset > gkm−SVM > NullSeq (Fig.1,2を見た主観)
-    - Squareが良かったとの結果だが、上記の通り、符号化法間での精度差はあまり無い模様。
+    - Squareが一番良い結果。しかし上記の通り、符号化法間での精度差は特に無い模様。
 
 
 ## 大規模データセット
