@@ -298,7 +298,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 | arxiv.1703.08970 | 2017   | EEG+EMG  | 4 labels  | EEG signals + EMG signals  | MM-CNN | 78.1% (Accuracy)   |
 | PMID:26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
 
-## DNA Sequence Domain 
+## DNA Sequence-based DNN
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance | Baseline |
 |---|---|---|---|---|---|---|---|
@@ -307,6 +307,11 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 |PMID: 29069282  | 2017.10| [Deopen](https://github.com/kimmo1019/Deopen) | Chromatin accessibility prediction|  |CNN_org+BP|  || 
 | PMID： 28158264 | 2017.2| [CNNProm](http://www.softberry.com) | Promotor Detection | Hs/Mm/At  251 nt TATA and non-TATA, Ec and Bs 81 nt promoter and non-promoter | CNN-Original 2-3 layers  | 0.95(Sn)	0.98(Sp) for Hs TATA | |
 | PMID： 28158264 | 2016.9| [DeepChrom](http://www.deepchrome.org),REMC database | predicting gene expression | histone modifications | CNN-Original 2-3 layers  |  | |
+
+## K-mer-based DNN
+| CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance | Baseline |
+|---|---|---|---|---|---|---|---|
+| https://doi.org/10.1101/170761  k=7  |2017.7 | [gkm-DNN](http://page.amss.ac.cn/shihua.zhang/software.html) | TFBS prediction |  467 small and 69 big human ENCODE ChIP-seq datasets | one hidden layer CNN| 95.2%(AUC) for big dataset  | gkm-SVM |
 
 ### REVIEW PAPER
 - [Machine Learning for High-Throughput Stress Phenotyping in Plants](http://www.sciencedirect.com/science/article/pii/S1360138515002630)
