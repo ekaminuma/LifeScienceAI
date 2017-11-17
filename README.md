@@ -314,6 +314,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance | Baseline |
 |---|---|---|---|---|---|---|---|
+| doi: https://doi.org/10.1101/172767 , ICML2017  |2017.8 | [DeepATAC](https://github.com/hiranumn/deepatac) | TFBS classification |  ATAC-seq |CNN [:link:](https://github.com/hiranumn/deepatac)|   | FIMO, DeepSEA |
 |  arXiv:1608.03644  |2017.1 | [DeepMotif](https://qdata.github.io/deep4biomed-web//Genome-DeepMotif/),108 K562 cell ENCODE ChIP-Seq TF datasets | TFBS classification | 101 nt sequence (hg19)|CNN,RNN(LSTM),CNN+RNN, Org_1-4 layers [:link: note:Lua言語](https://github.com/QData/DeepMotif)| 92.5%(AUC) for Med CNN-RNN | MEME-ChIP2|
 |PMID: 29069344 | 2017.10| [DEEPre](http://www.cbrc.kaust.edu.sa/DEEPre/) | EC number prediction | 50AA--5000AA | CNN_orig [:link:](http://www.cbrc.kaust.edu.sa/DEEPre/dataset.html)| |  | 
 |PMID: 29069282  | 2017.10| [Deopen](https://github.com/kimmo1019/Deopen) | Chromatin accessibility prediction|  |CNN_org+BP|  || 
