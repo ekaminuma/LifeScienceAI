@@ -148,6 +148,10 @@ RNN=Recurrent Neural Network
 
 - LSTM(Long short-term memory
 
+### CNN+RNN Hybrid Architectures
+
+- (QRNN)[http://recruit.gmo.jp/engineer/jisedai/blog/deep_learning_lstm_vs_qrnn/] : Quasi-Recurrent-Neural-Network
+
 ### Other NN Architectures
 - [Recursive Cortical Network (RCN)](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)
 
