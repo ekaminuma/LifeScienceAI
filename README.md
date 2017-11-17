@@ -283,7 +283,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 |---|---|---|---|---|---|---|
 | PMID:28361670  | 2017   | Bacteria  | 9 bacterial host genera  | 45 infectious viruses  | LR.SVM,RF | 85% (AUC)  |  
 
-## Others
+## Medical Domain (Image/Time Series Signal)
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
@@ -297,6 +297,12 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 | PMID:26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
 | arxiv.1703.08970 | 2017   | EEG+EMG  | 4 labels  | EEG signals + EMG signals  | MM-CNN | 78.1% (Accuracy)   |
 | PMID:26950929   | 2016   | sigle-cell image  | DMSO,Cluster-A,B,C  | 40783(DMSO), 1988 (cluster A), 9765 (cluster B), and 414(cluster C) images | CNN | 93.4% (Accuracy)  |  
+
+## DNA Sequence Domain 
+
+| CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
+|---|---|---|---|---|---|---|
+| PMID： 28158264 | 2017.2| [CNNProm](http://www.softberry.com) | Promotor Detection | Hs/Mm/At  251 nt TATA and non-TATA, Ec and Bs 81 nt promoter and non-promoter | CNN-AlexNet  |  | 
 
 ### REVIEW PAPER
 - [Machine Learning for High-Throughput Stress Phenotyping in Plants](http://www.sciencedirect.com/science/article/pii/S1360138515002630)
