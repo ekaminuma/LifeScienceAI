@@ -287,9 +287,11 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 
 | CITATION  | YEAR  | NOTE | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
-| PMID： 29086034 | 2017.10| |Endoscopic images | CNN-AlexNet| | 
+| PMID： 29086034  | 2017.10| || |Endoscopic images | CNN-AlexNet [:link:](https://github.com/jso111/ELHnet/tree/master/elhnet)  |  | 
+| PMID： 29083930 | 2017.10| | ||Endoscopic images | VGG, AlexNet| | 
+| PMID： 29083930 | 2017.10| | | OCT images | VGG16,scratch| | 
 | arxiv.1612.02572 |2016 ｜ | brain age | brain MRI image | CNN-GM | 4.16(MAE years)|   
-| arxiv.1704.03152 |2017 ｜CorrRNN (temporal model for temporal data) |  
+| arxiv.1704.03152 |2017 ｜|||CorrRNN (temporal model for temporal data) | |  
 | PMID:26950929   | 2017   | EEG  | Patiant Cohort Discovery  | EEG signals + reports | MM-CNN | 70.43% (MAP)   |  
 | PMID:26950929   | 2017   | EEG  | Polarity Classification  | EEG signals + reports  | MM-CNN | 76.2% (F1)   |  
 | arxiv.1703.08970 | 2017   | EEG+EMG  | 4 labels  | EEG signals + EMG signals  | MM-CNN | 78.1% (Accuracy)   |
