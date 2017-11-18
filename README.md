@@ -142,6 +142,7 @@ CNN=Convolutional Neural Network
 - Inspection 
 - Xception
 - [アーキテクチャ精度解説資料](http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice201705cvcomp.pdf) = 画像解析関連コンペティションの潮流 中山英樹 信学会 100:373,2017
+- [Visualizing CNN Architectures using Mxnet](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)
 
 ### RNN Architectures
 RNN=Recurrent Neural Network
