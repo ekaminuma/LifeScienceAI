@@ -1,10 +1,11 @@
 <link href="ek_bootstrap_md.css" rel="stylesheet"></link>
 
-## LifeScience AI by Eli Kaminuma
-- Reference MEMO of LifeScience AI
+## LifeScience AI Summary by Eli Kaminuma
+- Keywords, References, Datasets Links of LifeScience AI
 
 ## Keywords
 - convolutional neural networks (CNNs)
+- recurrent neural networks (RNNs)
 - clinically significant (CS) 
 - apparent diffusion coefficients (ADCs) 
 
