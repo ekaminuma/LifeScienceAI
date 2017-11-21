@@ -412,7 +412,10 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
   - [DiBaS Dataset](http://misztal.edu.pl/software/databases/dibas/)
      -  Bacterial colony classification.
      -  660 images with 33 different genera and species of bacteria.
-  - [AlgaeBase]()   
+  - [AlgaeBase](http://www.algaebase.org/search/images/) 
+     - 149,961 species and infraspecific names
+     - 20,386 images
+     - a minimum charge of EUR150 for each transaction
   - [AlgalWeb](http://www.algalweb.net/algweb2.htm)
   - [The CAUP image database](http://fottea.czechphycology.cz/pdfs/fot/2011/02/05.pdf)
   - [DIDI:Diatoms image database of India](https://www.researchgate.net/publication/293809254_Diatoms_image_database_of_India_DIDI_A_research_tool)
