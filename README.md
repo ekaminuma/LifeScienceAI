@@ -289,7 +289,9 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 | PMID: 28910352  | 2017   | DIBaS dataset | species | bacterial colony images   | SVN | 97.2(Accuracy)  | 
 | PMID: 27814364 | 2016   | Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments.|  multiple cell types  | microscope live cell image(fluorescence,phase,DIC)  |  Conv-net | 0.89(Jaccard Index) | 
 | BCB15,978-1-4503-3853-0 | 2015   | | segmenting to bacterial colonies, agar, plate, artefacts | bacterial colony images   |  Convolutional Deep Belief Network (CDBN) |  unsupervised leraning| 
-
+|PMID: 25294420| 2014 | 53,869 images of 23 different microalgae | 23 microalgae | microscopic images| NN |98.6%(Accuracy) |
+| |2014|microalgae image classification | 12 genera  | 180 algal microscopic images | SVM | 97.2%(Accuracy) |
+| PMID:24151424| 2013 | |  four genera of cyanobacteria | algal microscopic images   | BPNN |  97% (Accuracy )| 
 
 ## Host Prediction
 
@@ -410,6 +412,11 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
   - [DiBaS Dataset](http://misztal.edu.pl/software/databases/dibas/)
      -  Bacterial colony classification.
      -  660 images with 33 different genera and species of bacteria.
+  - [AlgaeBase]()   
+  - [AlgalWeb](http://www.algalweb.net/algweb2.htm)
+  - [The CAUP image database](http://fottea.czechphycology.cz/pdfs/fot/2011/02/05.pdf)
+  - [DIDI:Diatoms image database of India](https://www.researchgate.net/publication/293809254_Diatoms_image_database_of_India_DIDI_A_research_tool)
+  - [The Hawaiian Freshwater Algal Database (HfwADB)](http://algae.manoa.hawaii.edu/hfwadb/)
 - Plant datasets     
   - [IPPN Plant Phenotyping dataset](https://www.plant-phenotyping.org/datasets-home)
   - [ACID Wheat spikes and spikelets dataset](https://github.com/mikepound/wheat-hg)
