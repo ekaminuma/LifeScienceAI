@@ -559,6 +559,11 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
             
 ## DNN Related Chips
 - [Top Deep Learning Projects on Github](https://github.com/aymericdamien/TopDeepLearning)
+
+## Web App Embedding of Saved DNN Models
 - [ConvNetJS](https://github.com/karpathy/convnetjs) :  a javascript implementation of neural networks, together with nice browser-based demos.
-- [Keras.js](https://github.com/transcranial/keras-js) : a javascript implementation for Keras model
+- [Keras.js](https://github.com/transcranial/keras-js) : a javascript implementation for Keras model with GPU
+- [WebDNN](https://github.com/mil-tokyo/webdnn) : a javascript implementation for Keras model with WebGL
+- [TensorFire](https://tenso.rs/) : a javascript implementation for Tensorflow model without/with GPU
+- [Microsoft Machine Learning Server](https://docs.microsoft.com/en-us/machine-learning-server/index)
   
