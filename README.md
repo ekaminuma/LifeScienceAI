@@ -531,8 +531,9 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
       - CNN Architectures: GoogLeNet and AlexNet 
  
 ## Deep Learning Cloud Platform
-  - [FloydHub](https://www.floydhub.com/) : Deep Learningを対象としたPlatform-as-a-Service(PAAS) Cloudサービス.
-  
+   - [FloydHub](https://www.floydhub.com/) : Deep Learningを対象としたPlatform-as-a-Service(PAAS) Cloudサービス.
+   - [Heroku](https://www.heroku.com/) : 広く使われているPlatform as a service (PaaS) 
+   
 ## AI Patent
 　
   - [数の米国、攻める中国　AI特許6万件を解剖](https://vdata.nikkei.com/newsgraphics/ai-patent/) by 日経新聞2017.2.1
@@ -556,5 +557,8 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
       - 学習用プログラムのコード:著作権法2条10号の2「プログラムの著作物」
       - アルゴリズム:特許法2条3項1号の「物の発明」
             
-       
+## DNN Related Chips
+- [Top Deep Learning Projects on Github](https://github.com/aymericdamien/TopDeepLearning)
+- [ConvNetJS](https://github.com/karpathy/convnetjs) :  a javascript implementation of neural networks, together with nice browser-based demos.
+- [Keras.js](https://github.com/transcranial/keras-js) : a javascript implementation for Keras model
   
