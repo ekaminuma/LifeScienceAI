@@ -566,4 +566,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
 - [WebDNN](https://github.com/mil-tokyo/webdnn) : a javascript implementation for Keras model with WebGL/WebAssembly
 - [TensorFire](https://tenso.rs/) : a javascript implementation for Tensorflow model without/with GPU
 - [Microsoft Machine Learning Server](https://docs.microsoft.com/en-us/machine-learning-server/index)
+
+## Creating Prediction API of Saved DNN Models
+- [jsonify(Deploy a Keras Model)](http://liufuyang.github.io/2017/04/07/just-another-tensorflow-beginner-guide-5.html)
   
