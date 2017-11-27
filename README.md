@@ -531,8 +531,8 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
       - CNN Architectures: GoogLeNet and AlexNet 
  
 ## Deep Learning Cloud Platform
-   - [FloydHub](https://www.floydhub.com/) : Deep Learningを対象としたPlatform-as-a-Service(PAAS) Cloudサービス.
-   - [Heroku](https://www.heroku.com/) : 広く使われているPlatform as a service (PaaS) 
+  - [FloydHub](https://www.floydhub.com/) : Deep Learningを対象としたPlatform-as-a-Service(PAAS) Cloudサービス.
+  - [Heroku](https://www.heroku.com/) : 広く使われているPlatform as a service (PaaS) 
    
 ## AI Patent
 　
@@ -559,7 +559,16 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
             
 ## DNN Related Chips
 - [Top Deep Learning Projects on Github](https://github.com/aymericdamien/TopDeepLearning)
-
+- [A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
+  - TeslaのAI Director,Andrej Karpathy博士の機械学習分野のトレンド解析
+    - The arxiv singularity
+    - Deep Learning Frameworks
+    - ConvNet Models
+    - Optimization algorithms
+    - Researchers
+    - Top hot keywords
+    - Top not hot keywords
+    
 ## Web App Embedding of Saved DNN Models
 - [ConvNetJS](https://github.com/karpathy/convnetjs) :  a javascript implementation of neural networks, together with nice browser-based demos.
 - [Keras.js](https://github.com/transcranial/keras-js) : a javascript implementation for Keras model with GPU
