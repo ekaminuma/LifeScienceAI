@@ -382,6 +382,8 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
        - Organelles Movie Database
        - Organellome Database
        - Functional Analysis Database
+   - [STONEFLY9](http://web.engr.oregonstate.edu/~tgd/bugid/stonefly9/)
+       - 3826 images of 773 specimens of 9 taxa of Stoneflies
    - Worm Developmental Dynamics Database
    - 4D Left-Ventricular Segmentation Challenge Dataset
 - Medical datasets
@@ -412,6 +414,8 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
       - image set
       - PMID: 22743765(Ljosa et al., 2012)
       - MFC-7 breast cancer cells benchmark dataset
+  -  [STARE](http://cecas.clemson.edu/~ahoover/stare/)
+      - ~400 raw images, 13 diagnosis codes 
 - Bacterial datasets     
   - [DiBaS Dataset](http://misztal.edu.pl/software/databases/dibas/)
      -  Bacterial colony classification.
