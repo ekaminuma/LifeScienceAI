@@ -515,6 +515,7 @@ CITATION  | YEAR  | MEMO | Prediction Target   | Input Data  | Models |  Perform
  - ["Deep Learning" AND Plant ](https://www.readbyqxmd.com/keyword/162049)
  - [deeplearning-biology](https://github.com/hussius/deeplearning-biology)
  - [List of deep learning implementations in biology](https://followthedata.wordpress.com/2015/12/21/list-of-deep-learning-implementations-in-biology/)
+ - [深層学習が用いられている顔の属性推定LINKまとめ](https://qiita.com/nonbiri15/items/e097066a9d39972b994b)
   
 ## 深層学習用のNotePC
  - [DELL Alienware](http://www.dell.com/jp/business/p/laptops#!dlpgid=alienware-laptops?~ck=bt)
