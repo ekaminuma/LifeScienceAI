@@ -246,15 +246,15 @@ RNN=Recurrent Neural Network
 
 ## Plant Trait Prediction
 
-| CITATION  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
-|---|---|---|---|---|---|---|
-| arXiv:1707.02290    | 2017 | Maize | tassels count | 361 feld images | CNN, modified VGG | 6.6(MAE) |
-| PMID:28425947     | 2017 | Tomato | fruit count | train 24,000 synthetic images, test 100 real images | CNN,modified ResNet | 91%(Accuracy) |
-| PMID:28585253    | 2017 | Bean | canned black bean texture | Hyper spectral images |PLSR | |
-| PMID:28574705  | 2017   | Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
-| PMID:28857245  | 2017   | Faba Bean  | North/South, KSC | Root Traits| RF, k-NN  | 84.5% (Accuracy)  |  
-| PMID:28386178  | 2017 | Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
-| PMID:28405214 |2016|Soybean |  Plant stress severity rating | RGB Image | classification trees| 96% (Accuracy)  |  
+| CITATION  | YEAR |ToolName | TAXON | Prediction Target   | Input Data  | Models |  Performance |
+|---|---|---|---|---|---|---|---|
+| arXiv:1707.02290    | 2017 |TasselNet | Maize | tassels count | 361 feld images | CNN, modified VGG | 6.6(MAE) |
+| PMID:28425947     | 2017 |DeepCount| Tomato | fruit count | train 24,000 synthetic images, test 100 real images | CNN,modified ResNet | 91%(Accuracy) |
+| PMID:28585253    | 2017 || Bean | canned black bean texture | Hyper spectral images |PLSR | |
+| PMID:28574705  | 2017   || Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
+| PMID:28857245  | 2017   || Faba Bean  | North/South, KSC | Root Traits| RF, k-NN  | 84.5% (Accuracy)  |  
+| PMID:28386178  | 2017 | |Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
+| PMID:28405214 |2016| |Soybean |  Plant stress severity rating | RGB Image | classification trees| 96% (Accuracy)  |  
 
 
 ## Plant Disease Prediction
