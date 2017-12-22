@@ -263,6 +263,7 @@ RNN=Recurrent Neural Network
 
 | CITATION  | YEAR  | TAXON | Prediction Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|---|
+| PMID:28869539  | 2017   | Tomato  | tomato disease  | 5000 leaf images   | VGG16 | 83% (Accuracy)  |  
 | PMID:28757863   | 2017   | Apple  |  disease severity classification  | apple leaf black rot images in PlantVillage dataset  | CNN-VGG16 | 90.4% (Accuracy)  |  
 | PMID:28574705  | 2017   | Rice  | rice blast disease  | 6 weather variables   | BPNN | 65.42% (Accuracy)  |  
 | PMID:27418923  | 2016   | Pear, Peach, Apple, Grapevine   | 13 types of plant diseases  | 4483+ leaf images   | Caffe | 96.3%(Accuracy)  |  
