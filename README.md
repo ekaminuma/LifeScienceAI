@@ -238,6 +238,7 @@ RNN=Recurrent Neural Network
 
 | CITATION  | YEAR  | Classification Target   | Input Data  | Models |  Performance |
 |---|---|---|---|---|---|
+| PMID:28611840  | 2017   | 100 ornamental plant species | 10,000 images (BJFU100 Dataset)  | ResNet26  | 99.65%  (Accuracy)  |  
 | PMID:28857245  | 2017   |  16 European faba bean cultivars | 20 root traits  | k-NN  | 84.5% (Accuracy)  |  
 | PMID:27999587   | 2016   | 16 European Pisum sativum (pea) cultivars  | 36 root traits  | SVM,RF  | 86% of pairs (Accuracy)  |  
 | PMID:26669182  | 2015   | 4 pommelo cultivars   | leaf hyperspectral images  | BPNN,LS-SVM  | 97.92% (Accuracy)  |  
@@ -254,7 +255,8 @@ RNN=Recurrent Neural Network
 | PMID:28574705  | 2017   || Apple  |Usage, Age, and Harvest Season | Biochemical Profile  | ---  | --- (Accuracy)  |  
 | PMID:28857245  | 2017   || Faba Bean  | North/South, KSC | Root Traits| RF, k-NN  | 84.5% (Accuracy)  |  
 | PMID:28386178  | 2017 | |Crop | rice yield | GIS,soil,meteological factor |SVM | 85% (F1)|
-| PMID:28405214 |2016| |Soybean |  Plant stress severity rating | RGB Image | classification trees| 96% (Accuracy)  |  
+| ----  | 2017 | | 8 Leaf type | Flavia dataset 3,767 leaf images  |   | GoogLeNet| 94% (Accuracy)|
+| PMID:28405214 |2016| |Soybean |  Plant stress severity rating | RGB Image | classification trees| 99.8% (Accuracy)  |  
 
 
 ## Plant Disease Prediction
@@ -263,6 +265,7 @@ RNN=Recurrent Neural Network
 |---|---|---|---|---|---|---|
 | PMID:28757863   | 2017   | Apple  |  disease severity classification  | apple leaf black rot images in PlantVillage dataset  | CNN-VGG16 | 90.4% (Accuracy)  |  
 | PMID:28574705  | 2017   | Rice  | rice blast disease  | 6 weather variables   | BPNN | 65.42% (Accuracy)  |  
+| PMID:27418923  | 2016   | Pear, Peach, Apple, Grapevine   | 13 types of plant diseases  | 4483+ leaf images   | Caffe | 96.3%(Accuracy)  |  
 
 ## Plant Seed Classification
 
